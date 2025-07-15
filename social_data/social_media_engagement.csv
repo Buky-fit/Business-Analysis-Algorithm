@@ -1,0 +1,1001 @@
+post_id,platform,post_type,date,post_day,time,caption,hashtags,num_likes,num_comments,num_shares,caption_length,num_hashtags,post_hour,sentiment_score
+1,Facebook,image,17-08-2023,Thursday,02:45 PM,Best day ever! 🎉,#Social,2121,474,628,16,1,14,positive
+2,Facebook,carousel,14-05-2023,Sunday,12:45 AM,Here's a quick update.,"#Family, #Community, #Events",3660,432,694,22,3,0,neutral
+3,Instagram,poll,21-02-2023,Tuesday,04:15 PM,Not my best day. 😞,"#Beauty, #Fashion, #InstaDaily",4955,408,688,18,3,16,negative
+4,Twitter,image,16-11-2023,Thursday,12:45 AM,Disappointed but moving on.,"#Trending, #Tech, #Entertainment",1183,90,187,27,3,0,negative
+5,Twitter,video,23-05-2023,Tuesday,12:30 AM,Exciting news! 🚀,"#News, #Politics, #Entertainment",3499,247,286,16,3,0,positive
+6,Instagram,carousel,05-05-2023,Friday,08:00 PM,"New post, check it out!",#Photography,256,186,211,23,1,20,neutral
+7,Instagram,image,26-02-2023,Sunday,11:45 AM,Loving this new vibe! 😍,#Foodie,1982,30,906,23,1,11,positive
+8,Instagram,text,28-10-2023,Saturday,07:30 PM,"New post, check it out!",#Fashion,1274,45,216,23,1,19,neutral
+9,Facebook,video,02-05-2023,Tuesday,06:15 AM,Just another day.,"#Friends, #Family, #Events",317,249,221,17,3,6,neutral
+10,Twitter,carousel,11-05-2023,Thursday,11:00 AM,Here's a quick update.,"#News, #Entertainment, #Tech",1878,225,438,22,3,11,neutral
+11,Twitter,text,08-12-2023,Friday,02:15 AM,Feeling down today.,"#Tech, #Trending, #Memes",1446,44,52,19,3,2,negative
+12,Twitter,video,15-06-2023,Thursday,03:15 AM,Amazing experience! 🌟,#Politics,304,42,89,21,1,3,positive
+13,Facebook,carousel,11-11-2023,Saturday,03:45 PM,Not my best day. 😞,"#Marketing, #Social",45,78,375,18,2,15,negative
+14,Twitter,text,30-09-2023,Saturday,10:30 AM,Exciting news! 🚀,#Politics,1333,144,123,16,1,10,positive
+15,Facebook,carousel,09-01-2023,Monday,08:00 PM,Best day ever! 🎉,"#Friends, #Social, #Marketing",889,314,262,16,3,20,positive
+16,Twitter,image,10-02-2023,Friday,01:00 PM,What do you think?,"#Entertainment, #Tech",2348,154,18,18,2,13,neutral
+17,Instagram,poll,05-07-2023,Wednesday,05:15 AM,Best day ever! 🎉,#Photography,2872,10,736,16,1,5,positive
+18,Twitter,text,23-07-2023,Sunday,05:45 AM,"New post, check it out!","#Entertainment, #Politics",512,123,338,23,2,5,neutral
+19,Twitter,text,20-11-2023,Monday,02:00 AM,Amazing experience! 🌟,#Tech,2013,122,183,21,1,2,positive
+20,Facebook,image,02-02-2023,Thursday,04:00 PM,Best day ever! 🎉,"#Friends, #Events, #Family",455,86,79,16,3,16,positive
+21,Twitter,poll,02-05-2023,Tuesday,06:15 AM,"New post, check it out!","#Memes, #News, #Sports",559,136,55,23,3,6,neutral
+22,Twitter,carousel,30-01-2023,Monday,01:30 PM,Best day ever! 🎉,"#Politics, #Entertainment, #Sports",1961,44,439,16,3,13,positive
+23,Twitter,text,02-10-2023,Monday,12:15 PM,Exciting news! 🚀,"#Tech, #Trending, #Politics",332,109,348,16,3,12,positive
+24,Instagram,carousel,01-01-2023,Sunday,08:00 PM,Exciting news! 🚀,"#Foodie, #InstaDaily",5000,80,399,16,2,20,positive
+25,Twitter,poll,17-05-2023,Wednesday,12:15 AM,Amazing experience! 🌟,"#Entertainment, #Tech",898,130,480,21,2,0,positive
+26,Facebook,carousel,05-10-2023,Thursday,06:30 AM,Disappointed but moving on.,#Social,1992,70,515,27,1,6,negative
+27,Instagram,text,06-10-2023,Friday,10:00 AM,Best day ever! 🎉,#Fashion,3161,162,137,16,1,10,positive
+28,Facebook,poll,01-03-2023,Wednesday,08:00 AM,Just another day.,"#Events, #Community, #Friends",2083,500,388,17,3,8,neutral
+29,Facebook,image,07-01-2023,Saturday,10:30 AM,Could be better.,#Events,548,153,731,16,1,10,negative
+30,Facebook,carousel,03-02-2023,Friday,12:30 AM,Amazing experience! 🌟,#Community,4594,216,739,21,1,0,positive
+31,Facebook,poll,10-09-2023,Sunday,01:45 PM,Disappointed but moving on.,"#Events, #Marketing, #Family",4795,449,978,27,3,13,negative
+32,Instagram,image,01-07-2023,Saturday,02:45 PM,Exciting news! 🚀,"#Tech, #Photography, #InstaDaily",4665,202,183,16,3,14,positive
+33,Twitter,video,27-09-2023,Wednesday,07:00 PM,Loving this new vibe! 😍,"#Sports, #Trending, #Entertainment",119,147,240,23,3,19,positive
+34,Twitter,poll,09-02-2023,Thursday,03:30 PM,Exciting news! 🚀,#Memes,2253,162,28,16,1,15,positive
+35,Instagram,image,06-06-2023,Tuesday,07:30 PM,Feeling down today.,"#Fitness, #Foodie, #Tech",1309,201,852,19,3,19,negative
+36,Facebook,video,08-04-2023,Saturday,07:15 PM,Amazing experience! 🌟,"#Social, #Events, #Friends",5000,500,43,21,3,19,positive
+37,Facebook,video,11-05-2023,Thursday,12:30 AM,Just another day.,"#Family, #Marketing",4245,59,83,17,2,0,neutral
+38,Twitter,poll,02-05-2023,Tuesday,12:30 AM,Best day ever! 🎉,#Entertainment,2463,187,445,16,1,0,positive
+39,Facebook,video,01-01-2023,Sunday,06:00 AM,Here's a quick update.,#Social,5000,430,980,22,1,6,neutral
+40,Instagram,carousel,04-08-2023,Friday,12:45 PM,Could be better.,#Foodie,447,333,845,16,1,12,negative
+41,Twitter,carousel,27-12-2023,Wednesday,11:30 AM,Amazing experience! 🌟,"#Entertainment, #Trending",667,176,461,21,2,11,positive
+42,Instagram,video,23-11-2023,Thursday,02:00 AM,Not my best day. 😞,#Photography,4929,252,730,18,1,2,negative
+43,Twitter,carousel,31-03-2023,Friday,04:00 PM,Best day ever! 🎉,"#News, #Tech, #Trending",2586,97,85,16,3,16,positive
+44,Instagram,text,06-07-2023,Thursday,08:00 AM,Disappointed but moving on.,"#Fashion, #Travel, #Tech",3259,50,177,27,3,8,negative
+45,Twitter,video,01-12-2023,Friday,10:00 AM,Best day ever! 🎉,"#Trending, #Sports, #News",2236,132,118,16,3,10,positive
+46,Instagram,text,16-05-2023,Tuesday,10:15 PM,Exciting news! 🚀,"#Fashion, #InstaDaily, #Photography",2251,380,427,16,3,22,positive
+47,Facebook,poll,08-08-2023,Tuesday,05:45 PM,Feeling down today.,"#Events, #Social, #Family",4726,44,993,19,3,17,negative
+48,Facebook,video,22-03-2023,Wednesday,03:15 AM,Feeling down today.,#Family,5000,232,16,19,1,3,negative
+49,Twitter,image,17-04-2023,Monday,03:00 PM,Just another day.,"#Trending, #Entertainment",725,169,298,17,2,15,neutral
+50,Instagram,text,12-07-2023,Wednesday,12:00 AM,Not my best day. 😞,"#Beauty, #Photography, #Fashion",1551,206,127,18,3,0,negative
+51,Twitter,text,14-02-2023,Tuesday,06:00 PM,Loving this new vibe! 😍,#Tech,1268,73,251,23,1,18,positive
+52,Twitter,image,14-07-2023,Friday,03:00 PM,Loving this new vibe! 😍,"#Politics, #Entertainment, #Memes",950,113,327,23,3,15,positive
+53,Twitter,video,12-11-2023,Sunday,05:30 PM,Exciting news! 🚀,"#Trending, #Sports, #Politics",1498,46,96,16,3,17,positive
+54,Instagram,image,21-01-2023,Saturday,01:00 AM,Disappointed but moving on.,"#Foodie, #Fitness, #InstaDaily",4297,360,825,27,3,1,negative
+55,Twitter,carousel,02-10-2023,Monday,11:30 PM,What do you think?,"#Tech, #Entertainment",592,34,496,18,2,23,neutral
+56,Instagram,image,13-03-2023,Monday,11:15 PM,Not my best day. 😞,#Beauty,3401,190,230,18,1,23,negative
+57,Instagram,video,13-07-2023,Thursday,09:15 AM,Here's a quick update.,"#Fitness, #Foodie, #Travel",4846,134,498,22,3,9,neutral
+58,Facebook,video,27-12-2023,Wednesday,04:00 AM,Here's a quick update.,"#Social, #Events, #Family",2204,116,728,22,3,4,neutral
+59,Twitter,video,24-12-2023,Sunday,07:45 AM,Just another day.,#Trending,344,99,194,17,1,7,neutral
+60,Instagram,carousel,19-05-2023,Friday,04:30 AM,Loving this new vibe! 😍,"#Foodie, #InstaDaily, #Tech",4763,332,956,23,3,4,positive
+61,Instagram,video,31-12-2023,Sunday,10:30 PM,Feeling down today.,"#Photography, #InstaDaily",3544,167,761,19,2,22,negative
+62,Facebook,carousel,27-01-2023,Friday,03:45 PM,Not my best day. 😞,"#Community, #Friends, #Marketing",3742,227,849,18,3,15,negative
+63,Twitter,image,15-05-2023,Monday,06:30 AM,What do you think?,"#News, #Sports, #Politics",227,163,127,18,3,6,neutral
+64,Instagram,carousel,19-04-2023,Wednesday,07:45 PM,"New post, check it out!",#Tech,130,452,724,23,1,19,neutral
+65,Instagram,image,20-09-2023,Wednesday,06:00 AM,Exciting news! 🚀,#Foodie,3982,314,326,16,1,6,positive
+66,Facebook,text,03-01-2023,Tuesday,03:00 AM,Loving this new vibe! 😍,"#Family, #Events, #Friends",2265,39,318,23,3,3,positive
+67,Facebook,carousel,23-04-2023,Sunday,08:15 AM,Disappointed but moving on.,"#Marketing, #Family, #Community",2026,390,165,27,3,8,negative
+68,Instagram,video,28-12-2023,Thursday,04:45 PM,Feeling down today.,"#InstaDaily, #Fitness",560,486,677,19,2,16,negative
+69,Twitter,image,14-10-2023,Saturday,06:45 PM,What do you think?,#Politics,187,89,284,18,1,18,neutral
+70,Facebook,text,12-06-2023,Monday,09:30 AM,Not my best day. 😞,"#Friends, #Family",3094,86,965,18,2,9,negative
+71,Instagram,video,10-04-2023,Monday,12:00 AM,Here's a quick update.,"#Fashion, #Foodie",3398,261,630,22,2,0,neutral
+72,Facebook,carousel,05-05-2023,Friday,04:45 PM,"New post, check it out!",#Family,1690,257,656,23,1,16,neutral
+73,Facebook,text,18-07-2023,Tuesday,10:00 PM,Loving this new vibe! 😍,#Events,3026,11,761,23,1,22,positive
+74,Instagram,video,14-04-2023,Friday,10:30 AM,Loving this new vibe! 😍,"#Tech, #Travel",5000,454,744,23,2,10,positive
+75,Facebook,video,26-07-2023,Wednesday,08:15 PM,Best day ever! 🎉,#Social,5000,500,404,16,1,20,positive
+76,Instagram,text,27-07-2023,Thursday,07:15 PM,Just another day.,"#Tech, #Foodie, #Photography",2153,81,114,17,3,19,neutral
+77,Twitter,carousel,05-07-2023,Wednesday,06:15 PM,Loving this new vibe! 😍,"#Tech, #Trending, #Politics",3571,102,96,23,3,18,positive
+78,Instagram,poll,19-01-2023,Thursday,07:15 AM,Amazing experience! 🌟,#Tech,2990,30,365,21,1,7,positive
+79,Instagram,carousel,13-12-2023,Wednesday,04:45 AM,Amazing experience! 🌟,"#Tech, #Photography",4678,189,785,21,2,4,positive
+80,Facebook,text,25-06-2023,Sunday,03:15 PM,Best day ever! 🎉,#Community,553,320,312,16,1,15,positive
+81,Facebook,video,04-01-2023,Wednesday,06:30 PM,Here's a quick update.,"#Family, #Community, #Social",2642,33,413,22,3,18,neutral
+82,Instagram,carousel,19-11-2023,Sunday,12:30 PM,Disappointed but moving on.,#Foodie,4656,314,757,27,1,12,negative
+83,Instagram,video,06-12-2023,Wednesday,04:00 AM,Feeling down today.,#Fashion,5000,173,792,19,1,4,negative
+84,Facebook,carousel,03-10-2023,Tuesday,07:00 PM,Feeling down today.,#Marketing,1203,263,417,19,1,19,negative
+85,Facebook,text,06-07-2023,Thursday,07:00 AM,"New post, check it out!","#Community, #Family",2566,368,304,23,2,7,neutral
+86,Twitter,text,25-11-2023,Saturday,07:30 AM,Best day ever! 🎉,"#Politics, #Sports",2416,50,62,16,2,7,positive
+87,Instagram,text,23-05-2023,Tuesday,10:30 PM,"New post, check it out!",#Beauty,15,70,454,23,1,22,neutral
+88,Facebook,text,03-05-2023,Wednesday,12:30 PM,Best day ever! 🎉,"#Social, #Family",3404,244,67,16,2,12,positive
+89,Twitter,carousel,03-05-2023,Wednesday,08:00 AM,Amazing experience! 🌟,"#Trending, #News, #Sports",2884,197,339,21,3,8,positive
+90,Instagram,poll,19-03-2023,Sunday,04:00 AM,Disappointed but moving on.,"#Foodie, #Fashion",3195,109,243,27,2,4,negative
+91,Facebook,carousel,15-09-2023,Friday,12:45 AM,Could be better.,"#Community, #Events",3956,402,462,16,2,0,negative
+92,Facebook,video,23-02-2023,Thursday,05:15 PM,Loving this new vibe! 😍,#Marketing,1857,216,344,23,1,17,positive
+93,Instagram,carousel,07-05-2023,Sunday,12:30 AM,Not my best day. 😞,"#Tech, #Fashion, #InstaDaily",951,432,734,18,3,0,negative
+94,Facebook,image,27-11-2023,Monday,04:30 AM,Best day ever! 🎉,"#Friends, #Family, #Social",1694,207,290,16,3,4,positive
+95,Instagram,poll,07-03-2023,Tuesday,07:15 PM,Amazing experience! 🌟,"#Beauty, #Fashion",3005,124,517,21,2,19,positive
+96,Instagram,carousel,12-07-2023,Wednesday,05:45 PM,Amazing experience! 🌟,"#Fitness, #Foodie",36,294,911,21,2,17,positive
+97,Twitter,video,27-10-2023,Friday,11:45 PM,Here's a quick update.,#Memes,314,108,458,22,1,23,neutral
+98,Twitter,text,05-08-2023,Saturday,08:45 AM,Best day ever! 🎉,"#Politics, #Tech, #Memes",229,179,38,16,3,8,positive
+99,Instagram,poll,29-12-2023,Friday,12:15 PM,Loving this new vibe! 😍,"#Travel, #InstaDaily, #Fitness",5000,500,204,23,3,12,positive
+100,Instagram,image,06-06-2023,Tuesday,09:00 PM,Here's a quick update.,"#InstaDaily, #Travel",4483,357,25,22,2,21,neutral
+101,Facebook,image,20-10-2023,Friday,11:30 PM,Just another day.,#Community,1203,424,534,17,1,23,neutral
+102,Twitter,poll,01-04-2023,Saturday,02:00 PM,Amazing experience! 🌟,"#Memes, #Entertainment, #News",366,91,458,21,3,14,positive
+103,Facebook,poll,04-07-2023,Tuesday,07:30 PM,Feeling down today.,#Social,1926,162,979,19,1,19,negative
+104,Twitter,video,17-09-2023,Sunday,12:15 AM,Exciting news! 🚀,"#Entertainment, #Trending, #Tech",601,107,126,16,3,0,positive
+105,Twitter,image,07-12-2023,Thursday,03:45 AM,Exciting news! 🚀,"#Politics, #Tech",1178,135,356,16,2,3,positive
+106,Facebook,image,14-07-2023,Friday,05:30 PM,Just another day.,"#Community, #Family, #Social",3834,257,230,17,3,17,neutral
+107,Instagram,video,02-10-2023,Monday,03:45 PM,Feeling down today.,#Beauty,5000,484,5,19,1,15,negative
+108,Facebook,carousel,01-11-2023,Wednesday,03:00 AM,Feeling down today.,"#Marketing, #Community",2595,348,838,19,2,3,negative
+109,Instagram,text,27-04-2023,Thursday,04:45 AM,Not my best day. 😞,"#Photography, #InstaDaily, #Travel",1542,116,345,18,3,4,negative
+110,Twitter,carousel,06-04-2023,Thursday,12:45 PM,Not my best day. 😞,"#Politics, #Memes",3456,116,424,18,2,12,negative
+111,Facebook,text,17-07-2023,Monday,02:45 AM,Not my best day. 😞,"#Social, #Friends",1311,362,26,18,2,2,negative
+112,Instagram,poll,22-06-2023,Thursday,01:15 AM,What do you think?,"#Beauty, #Foodie",3775,69,70,18,2,1,neutral
+113,Facebook,text,04-03-2023,Saturday,06:00 AM,"New post, check it out!","#Friends, #Community, #Events",74,338,650,23,3,6,neutral
+114,Twitter,video,03-04-2023,Monday,05:30 PM,Loving this new vibe! 😍,"#Memes, #Sports, #Tech",676,265,316,23,3,17,positive
+115,Facebook,poll,04-08-2023,Friday,10:45 PM,Here's a quick update.,#Social,2673,167,714,22,1,22,neutral
+116,Instagram,video,10-02-2023,Friday,12:30 AM,Disappointed but moving on.,"#Travel, #Fashion, #Foodie",5000,500,203,27,3,0,negative
+117,Instagram,poll,04-05-2023,Thursday,09:00 PM,Could be better.,"#Photography, #InstaDaily",3618,54,13,16,2,21,negative
+118,Facebook,poll,07-07-2023,Friday,08:30 AM,Could be better.,#Marketing,31,126,123,16,1,8,negative
+119,Facebook,image,12-11-2023,Sunday,08:30 AM,Disappointed but moving on.,"#Marketing, #Community",234,403,461,27,2,8,negative
+120,Instagram,carousel,20-03-2023,Monday,10:30 AM,Disappointed but moving on.,"#Foodie, #Fitness, #InstaDaily",908,378,571,27,3,10,negative
+121,Instagram,image,25-06-2023,Sunday,01:15 AM,What do you think?,"#Beauty, #Tech",3676,139,892,18,2,1,neutral
+122,Twitter,poll,05-02-2023,Sunday,06:45 PM,Feeling down today.,#Politics,2434,68,170,19,1,18,negative
+123,Instagram,carousel,07-03-2023,Tuesday,08:00 AM,Amazing experience! 🌟,"#Beauty, #Fashion, #Fitness",3469,339,338,21,3,8,positive
+124,Facebook,image,21-12-2023,Thursday,07:30 PM,Feeling down today.,"#Events, #Friends, #Community",4925,254,139,19,3,19,negative
+125,Facebook,poll,30-12-2023,Saturday,11:30 PM,Amazing experience! 🌟,"#Community, #Marketing, #Friends",5000,354,483,21,3,23,positive
+126,Facebook,carousel,13-04-2023,Thursday,02:15 PM,Amazing experience! 🌟,"#Family, #Community, #Friends",3792,470,442,21,3,14,positive
+127,Instagram,poll,04-03-2023,Saturday,09:00 AM,"New post, check it out!","#InstaDaily, #Foodie",3577,255,427,23,2,9,neutral
+128,Facebook,carousel,13-11-2023,Monday,09:15 AM,Not my best day. 😞,"#Community, #Family",3695,45,501,18,2,9,negative
+129,Instagram,carousel,30-08-2023,Wednesday,05:45 AM,Just another day.,"#Foodie, #Beauty, #InstaDaily",4841,77,23,17,3,5,neutral
+130,Twitter,image,22-12-2023,Friday,12:45 AM,Amazing experience! 🌟,#Trending,1459,135,62,21,1,0,positive
+131,Facebook,video,01-02-2023,Wednesday,11:30 AM,Not my best day. 😞,#Events,3939,457,420,18,1,11,negative
+132,Twitter,carousel,04-08-2023,Friday,02:30 PM,Feeling down today.,#Tech,1367,92,119,19,1,14,negative
+133,Instagram,carousel,24-08-2023,Thursday,06:15 AM,Exciting news! 🚀,#Fitness,367,103,728,16,1,6,positive
+134,Facebook,video,06-10-2023,Friday,07:15 PM,Disappointed but moving on.,"#Marketing, #Family",4838,315,570,27,2,19,negative
+135,Facebook,image,19-05-2023,Friday,05:15 PM,Just another day.,"#Friends, #Family",3457,243,2,17,2,17,neutral
+136,Twitter,poll,01-11-2023,Wednesday,07:30 AM,Disappointed but moving on.,"#Memes, #Trending, #News",684,220,423,27,3,7,negative
+137,Instagram,carousel,01-06-2023,Thursday,04:45 PM,Best day ever! 🎉,#Fashion,3823,301,528,16,1,16,positive
+138,Twitter,video,31-08-2023,Thursday,06:00 AM,What do you think?,"#Tech, #Sports",1374,156,271,18,2,6,neutral
+139,Instagram,image,03-01-2023,Tuesday,03:30 AM,What do you think?,#InstaDaily,1372,322,830,18,1,3,neutral
+140,Instagram,carousel,20-03-2023,Monday,05:15 AM,Just another day.,"#Foodie, #Travel, #InstaDaily",4004,414,695,17,3,5,neutral
+141,Facebook,poll,04-02-2023,Saturday,08:45 AM,Not my best day. 😞,"#Marketing, #Family",620,302,917,18,2,8,negative
+142,Twitter,carousel,26-10-2023,Thursday,09:30 PM,Just another day.,"#Sports, #Entertainment",476,179,124,17,2,21,neutral
+143,Instagram,poll,31-10-2023,Tuesday,02:45 AM,"New post, check it out!","#Fashion, #Tech, #Foodie",3175,218,270,23,3,2,neutral
+144,Twitter,carousel,15-09-2023,Friday,04:15 AM,Best day ever! 🎉,"#Politics, #News, #Trending",102,198,143,16,3,4,positive
+145,Facebook,image,17-01-2023,Tuesday,05:15 PM,Disappointed but moving on.,"#Family, #Events",1843,21,688,27,2,17,negative
+146,Twitter,video,01-05-2023,Monday,01:00 AM,Exciting news! 🚀,#Politics,1493,47,432,16,1,1,positive
+147,Twitter,image,20-02-2023,Monday,08:00 PM,Best day ever! 🎉,#Politics,1770,203,327,16,1,20,positive
+148,Facebook,video,26-06-2023,Monday,11:30 PM,Best day ever! 🎉,"#Family, #Friends",2766,500,844,16,2,23,positive
+149,Instagram,video,04-11-2023,Saturday,05:15 AM,Not my best day. 😞,"#Tech, #InstaDaily, #Fashion",2499,500,789,18,3,5,negative
+150,Instagram,text,24-02-2023,Friday,09:45 AM,Here's a quick update.,"#InstaDaily, #Photography",277,24,220,22,2,9,neutral
+151,Instagram,video,11-12-2023,Monday,08:30 AM,Best day ever! 🎉,"#Fashion, #Fitness",5000,300,618,16,2,8,positive
+152,Facebook,video,15-01-2023,Sunday,08:15 AM,Could be better.,"#Marketing, #Community",1869,178,341,16,2,8,negative
+153,Facebook,text,30-12-2023,Saturday,12:15 AM,Not my best day. 😞,"#Events, #Marketing, #Family",2497,423,463,18,3,0,negative
+154,Twitter,poll,08-12-2023,Friday,11:15 PM,"New post, check it out!","#News, #Tech, #Memes",1514,190,17,23,3,23,neutral
+155,Facebook,video,29-05-2023,Monday,04:30 PM,Exciting news! 🚀,#Friends,3472,226,2,16,1,16,positive
+156,Facebook,image,11-03-2023,Saturday,01:00 PM,Disappointed but moving on.,"#Marketing, #Social",3579,346,878,27,2,13,negative
+157,Instagram,poll,25-02-2023,Saturday,06:45 PM,Not my best day. 😞,"#Fashion, #Foodie, #InstaDaily",5000,500,98,18,3,18,negative
+158,Instagram,image,10-02-2023,Friday,10:30 PM,Amazing experience! 🌟,#Photography,583,248,517,21,1,22,positive
+159,Twitter,text,11-12-2023,Monday,05:45 AM,Feeling down today.,"#News, #Politics",352,144,168,19,2,5,negative
+160,Facebook,video,14-10-2023,Saturday,02:30 AM,Feeling down today.,#Marketing,5000,500,923,19,1,2,negative
+161,Twitter,carousel,09-04-2023,Sunday,10:30 AM,Not my best day. 😞,"#Sports, #Trending, #News",2642,189,20,18,3,10,negative
+162,Instagram,poll,19-11-2023,Sunday,08:00 PM,What do you think?,"#Foodie, #InstaDaily, #Tech",4611,78,896,18,3,20,neutral
+163,Twitter,carousel,12-02-2023,Sunday,08:45 AM,Loving this new vibe! 😍,"#Entertainment, #Trending, #Sports",3110,42,278,23,3,8,positive
+164,Facebook,image,22-08-2023,Tuesday,12:15 AM,Feeling down today.,"#Events, #Community",508,335,246,19,2,0,negative
+165,Facebook,poll,10-05-2023,Wednesday,12:45 PM,Best day ever! 🎉,#Events,1664,327,376,16,1,12,positive
+166,Facebook,poll,27-11-2023,Monday,04:15 AM,Loving this new vibe! 😍,"#Community, #Friends, #Social",1846,455,830,23,3,4,positive
+167,Twitter,poll,02-11-2023,Thursday,12:45 PM,Could be better.,#Memes,886,157,181,16,1,12,negative
+168,Twitter,text,22-09-2023,Friday,10:30 AM,"New post, check it out!","#News, #Sports",2098,42,43,23,2,10,neutral
+169,Twitter,carousel,12-11-2023,Sunday,06:45 PM,"New post, check it out!","#News, #Tech",4123,211,243,23,2,18,neutral
+170,Facebook,video,30-10-2023,Monday,07:00 AM,Loving this new vibe! 😍,#Events,5000,257,94,23,1,7,positive
+171,Twitter,text,10-04-2023,Monday,09:30 PM,Best day ever! 🎉,#Politics,891,45,167,16,1,21,positive
+172,Instagram,carousel,31-07-2023,Monday,09:00 AM,Disappointed but moving on.,"#Fashion, #Foodie, #Photography",1222,231,905,27,3,9,negative
+173,Twitter,carousel,04-04-2023,Tuesday,01:30 AM,Here's a quick update.,"#Sports, #Entertainment, #Tech",861,142,253,22,3,1,neutral
+174,Twitter,carousel,29-06-2023,Thursday,03:30 PM,What do you think?,"#Trending, #Tech, #Memes",687,210,60,18,3,15,neutral
+175,Instagram,image,08-11-2023,Wednesday,01:00 AM,"New post, check it out!","#Beauty, #InstaDaily",3845,147,98,23,2,1,neutral
+176,Twitter,poll,22-09-2023,Friday,05:00 AM,Disappointed but moving on.,#Entertainment,1126,149,31,27,1,5,negative
+177,Instagram,video,01-06-2023,Thursday,07:45 PM,"New post, check it out!","#Travel, #Foodie",5000,90,676,23,2,19,neutral
+178,Facebook,poll,06-11-2023,Monday,12:15 PM,Exciting news! 🚀,"#Community, #Social",3584,461,449,16,2,12,positive
+179,Twitter,carousel,07-01-2023,Saturday,06:15 AM,Just another day.,"#Politics, #Trending",3339,95,87,17,2,6,neutral
+180,Instagram,video,24-06-2023,Saturday,04:30 AM,Amazing experience! 🌟,#Beauty,4718,29,693,21,1,4,positive
+181,Facebook,video,10-01-2023,Tuesday,10:45 AM,Here's a quick update.,#Events,5000,222,334,22,1,10,neutral
+182,Facebook,carousel,28-01-2023,Saturday,08:15 AM,Loving this new vibe! 😍,"#Friends, #Events, #Community",4860,320,32,23,3,8,positive
+183,Twitter,image,26-11-2023,Sunday,10:30 PM,Best day ever! 🎉,#Entertainment,1486,136,384,16,1,22,positive
+184,Twitter,image,15-02-2023,Wednesday,07:30 PM,Amazing experience! 🌟,"#Memes, #Tech, #Politics",357,170,483,21,3,19,positive
+185,Facebook,carousel,11-11-2023,Saturday,12:30 AM,Amazing experience! 🌟,"#Marketing, #Family, #Friends",2379,421,750,21,3,0,positive
+186,Instagram,image,28-03-2023,Tuesday,01:45 PM,Could be better.,#Tech,4508,486,265,16,1,13,negative
+187,Instagram,poll,11-06-2023,Sunday,07:45 AM,Best day ever! 🎉,"#Tech, #Beauty, #Fitness",2546,77,784,16,3,7,positive
+188,Instagram,text,23-09-2023,Saturday,07:30 PM,Just another day.,#Foodie,3890,94,226,17,1,19,neutral
+189,Twitter,carousel,22-11-2023,Wednesday,05:45 AM,Feeling down today.,"#Memes, #Tech, #Entertainment",631,203,287,19,3,5,negative
+190,Instagram,carousel,13-09-2023,Wednesday,11:45 AM,Just another day.,#Photography,2260,99,961,17,1,11,neutral
+191,Instagram,image,04-06-2023,Sunday,03:15 PM,Just another day.,"#Foodie, #Beauty",5000,271,601,17,2,15,neutral
+192,Facebook,carousel,08-02-2023,Wednesday,03:00 AM,What do you think?,#Events,2112,402,610,18,1,3,neutral
+193,Twitter,text,01-11-2023,Wednesday,12:00 AM,Disappointed but moving on.,#Entertainment,361,87,86,27,1,0,negative
+194,Twitter,carousel,03-03-2023,Friday,03:00 AM,What do you think?,"#Entertainment, #Sports, #Politics",55,112,366,18,3,3,neutral
+195,Twitter,image,14-10-2023,Saturday,01:45 AM,Could be better.,"#Memes, #Sports",2210,104,291,16,2,1,negative
+196,Instagram,carousel,31-01-2023,Tuesday,06:45 AM,Could be better.,"#Beauty, #InstaDaily",4548,181,200,16,2,6,negative
+197,Instagram,image,26-12-2023,Tuesday,11:30 PM,Here's a quick update.,#Foodie,540,348,660,22,1,23,neutral
+198,Instagram,poll,05-10-2023,Thursday,01:15 AM,Could be better.,#Photography,3794,183,746,16,1,1,negative
+199,Facebook,text,01-09-2023,Friday,02:30 AM,Just another day.,"#Social, #Friends, #Family",1329,34,887,17,3,2,neutral
+200,Instagram,image,03-12-2023,Sunday,04:15 AM,Loving this new vibe! 😍,"#Tech, #Beauty, #Travel",1052,335,360,23,3,4,positive
+201,Twitter,poll,03-04-2023,Monday,07:30 PM,Could be better.,"#Trending, #Memes, #Sports",22,43,200,16,3,19,negative
+202,Instagram,image,19-05-2023,Friday,03:15 PM,Just another day.,#Tech,521,87,890,17,1,15,neutral
+203,Twitter,poll,08-04-2023,Saturday,12:00 PM,Disappointed but moving on.,"#Tech, #Trending",3496,126,200,27,2,12,negative
+204,Twitter,video,12-12-2023,Tuesday,12:45 PM,Disappointed but moving on.,"#Trending, #Politics",1765,43,33,27,2,12,negative
+205,Twitter,image,30-12-2023,Saturday,08:00 AM,Could be better.,"#Memes, #Entertainment",1500,180,36,16,2,8,negative
+206,Twitter,carousel,24-11-2023,Friday,03:15 PM,Best day ever! 🎉,"#Memes, #Tech",930,46,17,16,2,15,positive
+207,Instagram,video,16-09-2023,Saturday,04:30 PM,Exciting news! 🚀,"#Beauty, #InstaDaily",1370,331,169,16,2,16,positive
+208,Instagram,text,05-11-2023,Sunday,11:30 AM,Could be better.,"#Travel, #Beauty, #Foodie",703,433,207,16,3,11,negative
+209,Facebook,text,03-01-2023,Tuesday,08:30 PM,Disappointed but moving on.,"#Marketing, #Community, #Social",2983,103,93,27,3,20,negative
+210,Twitter,carousel,02-06-2023,Friday,07:15 PM,Exciting news! 🚀,#News,1170,11,378,16,1,19,positive
+211,Twitter,poll,05-03-2023,Sunday,10:15 PM,Loving this new vibe! 😍,"#Politics, #Entertainment, #Trending",2379,219,7,23,3,22,positive
+212,Twitter,carousel,23-05-2023,Tuesday,05:15 PM,Just another day.,"#News, #Entertainment",1784,37,357,17,2,17,neutral
+213,Instagram,text,22-07-2023,Saturday,07:00 PM,Amazing experience! 🌟,#Fitness,2367,278,612,21,1,19,positive
+214,Instagram,carousel,24-03-2023,Friday,09:15 AM,Just another day.,#Fashion,424,191,583,17,1,9,neutral
+215,Facebook,poll,06-12-2023,Wednesday,06:15 PM,Amazing experience! 🌟,"#Family, #Social",2268,144,825,21,2,18,positive
+216,Instagram,poll,27-06-2023,Tuesday,09:30 PM,What do you think?,"#InstaDaily, #Tech",2879,276,301,18,2,21,neutral
+217,Facebook,poll,21-04-2023,Friday,09:45 PM,Disappointed but moving on.,"#Social, #Events",3940,117,786,27,2,21,negative
+218,Instagram,poll,31-05-2023,Wednesday,07:45 PM,Best day ever! 🎉,#Foodie,4210,198,729,16,1,19,positive
+219,Twitter,poll,21-11-2023,Tuesday,12:00 PM,Exciting news! 🚀,#Memes,1377,192,65,16,1,12,positive
+220,Twitter,image,27-07-2023,Thursday,01:30 PM,Not my best day. 😞,#Trending,180,50,283,18,1,13,negative
+221,Facebook,image,05-06-2023,Monday,04:15 AM,Loving this new vibe! 😍,#Friends,4871,388,40,23,1,4,positive
+222,Facebook,text,05-10-2023,Thursday,10:30 PM,Could be better.,"#Community, #Family, #Marketing",1635,372,940,16,3,22,negative
+223,Instagram,text,29-12-2023,Friday,01:30 AM,Disappointed but moving on.,"#Photography, #InstaDaily, #Travel",1579,90,908,27,3,1,negative
+224,Facebook,poll,28-03-2023,Tuesday,01:30 AM,"New post, check it out!","#Marketing, #Friends",4942,233,94,23,2,1,neutral
+225,Facebook,video,23-08-2023,Wednesday,10:15 PM,Feeling down today.,"#Events, #Social, #Friends",104,170,97,19,3,22,negative
+226,Facebook,video,21-07-2023,Friday,10:00 AM,Exciting news! 🚀,#Social,5000,10,95,16,1,10,positive
+227,Twitter,image,17-07-2023,Monday,07:15 AM,Not my best day. 😞,"#Politics, #News, #Memes",446,117,470,18,3,7,negative
+228,Twitter,text,12-09-2023,Tuesday,08:45 AM,Just another day.,#Trending,21,44,46,17,1,8,neutral
+229,Instagram,poll,30-06-2023,Friday,06:30 AM,What do you think?,#Fashion,958,104,686,18,1,6,neutral
+230,Instagram,carousel,24-09-2023,Sunday,09:00 AM,Could be better.,"#Photography, #Fashion, #Foodie",4990,82,43,16,3,9,negative
+231,Instagram,text,19-01-2023,Thursday,04:45 PM,"New post, check it out!","#Fitness, #Travel, #Tech",834,246,667,23,3,16,neutral
+232,Twitter,text,26-02-2023,Sunday,02:30 PM,Could be better.,"#News, #Tech",1291,164,224,16,2,14,negative
+233,Facebook,video,19-08-2023,Saturday,10:30 AM,Here's a quick update.,"#Friends, #Events, #Marketing",3404,330,16,22,3,10,neutral
+234,Twitter,video,29-05-2023,Monday,05:00 AM,What do you think?,"#Politics, #Entertainment",854,171,41,18,2,5,neutral
+235,Twitter,video,26-05-2023,Friday,08:15 PM,Amazing experience! 🌟,#Memes,4222,211,184,21,1,20,positive
+236,Instagram,text,18-01-2023,Wednesday,11:45 PM,Disappointed but moving on.,#Beauty,445,174,994,27,1,23,negative
+237,Facebook,text,17-08-2023,Thursday,03:00 AM,Here's a quick update.,"#Friends, #Social, #Events",1143,56,815,22,3,3,neutral
+238,Facebook,poll,15-02-2023,Wednesday,03:45 PM,Could be better.,"#Family, #Marketing, #Events",4685,73,838,16,3,15,negative
+239,Facebook,carousel,22-05-2023,Monday,09:00 AM,Just another day.,#Events,80,458,75,17,1,9,neutral
+240,Facebook,poll,21-02-2023,Tuesday,11:00 AM,Disappointed but moving on.,#Community,3283,467,997,27,1,11,negative
+241,Facebook,text,12-12-2023,Tuesday,10:30 AM,Not my best day. 😞,"#Family, #Events",79,320,892,18,2,10,negative
+242,Instagram,poll,31-08-2023,Thursday,09:30 PM,Best day ever! 🎉,"#InstaDaily, #Fashion",1168,20,832,16,2,21,positive
+243,Twitter,video,20-08-2023,Sunday,05:00 PM,Loving this new vibe! 😍,"#News, #Entertainment",2733,26,424,23,2,17,positive
+244,Instagram,poll,11-10-2023,Wednesday,04:15 AM,Best day ever! 🎉,#Beauty,3668,133,894,16,1,4,positive
+245,Twitter,poll,02-07-2023,Sunday,05:45 PM,Not my best day. 😞,#Trending,3168,27,362,18,1,17,negative
+246,Instagram,image,24-11-2023,Friday,12:15 PM,Exciting news! 🚀,#Travel,78,144,422,16,1,12,positive
+247,Instagram,video,13-06-2023,Tuesday,01:30 AM,Disappointed but moving on.,#Fitness,1294,170,490,27,1,1,negative
+248,Twitter,poll,18-01-2023,Wednesday,12:45 PM,Here's a quick update.,"#Trending, #Entertainment, #Sports",2054,213,349,22,3,12,neutral
+249,Instagram,carousel,21-01-2023,Saturday,05:45 PM,Here's a quick update.,#Tech,1630,500,731,22,1,17,neutral
+250,Instagram,poll,14-03-2023,Tuesday,03:30 AM,Loving this new vibe! 😍,"#Travel, #Fitness",4599,172,890,23,2,3,positive
+251,Facebook,text,20-09-2023,Wednesday,01:30 PM,Just another day.,"#Social, #Community",251,277,270,17,2,13,neutral
+252,Instagram,image,19-11-2023,Sunday,07:00 PM,Disappointed but moving on.,"#Tech, #Beauty, #Fitness",3711,55,581,27,3,19,negative
+253,Twitter,poll,16-02-2023,Thursday,05:15 PM,Not my best day. 😞,"#Tech, #Trending, #Sports",2219,94,109,18,3,17,negative
+254,Twitter,carousel,01-01-2023,Sunday,09:30 PM,Not my best day. 😞,#Memes,2702,22,225,18,1,21,negative
+255,Twitter,poll,16-07-2023,Sunday,07:45 AM,Disappointed but moving on.,#Sports,1010,133,61,27,1,7,negative
+256,Instagram,poll,30-06-2023,Friday,07:00 AM,Not my best day. 😞,#Fashion,4549,476,881,18,1,7,negative
+257,Facebook,video,10-02-2023,Friday,08:30 AM,Loving this new vibe! 😍,#Community,4452,425,158,23,1,8,positive
+258,Facebook,video,01-02-2023,Wednesday,12:45 PM,Exciting news! 🚀,"#Friends, #Social",5000,237,341,16,2,12,positive
+259,Twitter,image,09-09-2023,Saturday,05:30 PM,What do you think?,"#Sports, #Politics, #Trending",578,185,90,18,3,17,neutral
+260,Facebook,image,02-07-2023,Sunday,03:00 AM,Best day ever! 🎉,"#Marketing, #Family",4784,475,442,16,2,3,positive
+261,Instagram,video,21-02-2023,Tuesday,05:00 AM,Amazing experience! 🌟,"#Travel, #Fitness",2459,500,115,21,2,5,positive
+262,Instagram,text,06-02-2023,Monday,09:45 AM,Loving this new vibe! 😍,"#Fashion, #Fitness, #InstaDaily",1343,88,713,23,3,9,positive
+263,Instagram,carousel,08-06-2023,Thursday,11:15 PM,Feeling down today.,"#Tech, #Foodie, #Beauty",4218,360,268,19,3,23,negative
+264,Instagram,image,02-10-2023,Monday,08:45 AM,Just another day.,#Foodie,3086,389,702,17,1,8,neutral
+265,Instagram,text,26-01-2023,Thursday,03:45 PM,Here's a quick update.,"#Foodie, #Fitness, #Tech",184,252,273,22,3,15,neutral
+266,Facebook,text,17-07-2023,Monday,09:15 AM,Not my best day. 😞,"#Events, #Marketing",860,162,685,18,2,9,negative
+267,Facebook,text,01-02-2023,Wednesday,09:00 PM,Amazing experience! 🌟,#Marketing,927,46,972,21,1,21,positive
+268,Facebook,carousel,28-10-2023,Saturday,12:30 AM,Here's a quick update.,#Family,2067,23,921,22,1,0,neutral
+269,Twitter,text,04-04-2023,Tuesday,09:45 AM,Exciting news! 🚀,"#Tech, #News, #Memes",202,141,130,16,3,9,positive
+270,Facebook,image,18-02-2023,Saturday,09:45 AM,Amazing experience! 🌟,"#Social, #Friends",3436,479,426,21,2,9,positive
+271,Instagram,text,26-08-2023,Saturday,06:30 AM,Feeling down today.,"#Photography, #Fitness",1639,125,383,19,2,6,negative
+272,Facebook,poll,10-08-2023,Thursday,10:15 AM,Amazing experience! 🌟,"#Family, #Social, #Events",3617,131,515,21,3,10,positive
+273,Instagram,video,06-03-2023,Monday,10:45 AM,"New post, check it out!","#Foodie, #Photography",5000,500,152,23,2,10,neutral
+274,Instagram,video,02-03-2023,Thursday,02:30 AM,Exciting news! 🚀,#Foodie,577,334,214,16,1,2,positive
+275,Instagram,poll,21-01-2023,Saturday,04:45 PM,Feeling down today.,#Beauty,567,403,583,19,1,16,negative
+276,Facebook,image,11-12-2023,Monday,12:30 PM,What do you think?,"#Family, #Marketing",1124,241,907,18,2,12,neutral
+277,Facebook,text,09-02-2023,Thursday,07:15 AM,Just another day.,"#Friends, #Events",905,176,370,17,2,7,neutral
+278,Instagram,poll,08-03-2023,Wednesday,06:45 PM,Amazing experience! 🌟,#Tech,3234,414,54,21,1,18,positive
+279,Instagram,text,17-07-2023,Monday,11:00 AM,Amazing experience! 🌟,"#Foodie, #Fitness",1839,362,578,21,2,11,positive
+280,Facebook,text,14-05-2023,Sunday,03:30 AM,Here's a quick update.,"#Events, #Friends, #Social",2335,338,20,22,3,3,neutral
+281,Instagram,poll,21-04-2023,Friday,02:30 PM,Feeling down today.,"#Foodie, #Photography, #InstaDaily",1881,127,541,19,3,14,negative
+282,Twitter,text,16-03-2023,Thursday,04:45 PM,Just another day.,"#Entertainment, #News, #Politics",1937,42,397,17,3,16,neutral
+283,Twitter,carousel,10-06-2023,Saturday,03:15 PM,Not my best day. 😞,#Entertainment,57,145,68,18,1,15,negative
+284,Instagram,poll,10-02-2023,Friday,01:00 AM,Exciting news! 🚀,"#Foodie, #Photography, #Travel",3864,354,907,16,3,1,positive
+285,Facebook,text,20-07-2023,Thursday,07:00 AM,Just another day.,#Community,36,381,139,17,1,7,neutral
+286,Facebook,image,28-12-2023,Thursday,10:15 AM,What do you think?,#Marketing,2008,379,72,18,1,10,neutral
+287,Instagram,poll,28-10-2023,Saturday,12:45 PM,Loving this new vibe! 😍,#Photography,2508,246,859,23,1,12,positive
+288,Twitter,text,08-05-2023,Monday,04:45 AM,Amazing experience! 🌟,#Politics,542,86,141,21,1,4,positive
+289,Instagram,text,15-03-2023,Wednesday,09:30 AM,Feeling down today.,#Tech,1113,328,905,19,1,9,negative
+290,Facebook,image,15-12-2023,Friday,12:30 PM,Not my best day. 😞,"#Community, #Social, #Friends",5000,232,128,18,3,12,negative
+291,Facebook,text,17-07-2023,Monday,11:00 PM,Feeling down today.,#Marketing,1232,54,201,19,1,23,negative
+292,Facebook,poll,01-09-2023,Friday,08:45 AM,What do you think?,"#Family, #Social",4549,229,834,18,2,8,neutral
+293,Facebook,carousel,26-11-2023,Sunday,08:00 AM,Feeling down today.,#Marketing,1570,500,763,19,1,8,negative
+294,Instagram,text,25-11-2023,Saturday,03:30 AM,Feeling down today.,#Photography,838,186,941,19,1,3,negative
+295,Facebook,poll,17-02-2023,Friday,01:00 PM,Amazing experience! 🌟,"#Family, #Marketing",1582,445,392,21,2,13,positive
+296,Instagram,poll,29-01-2023,Sunday,02:45 PM,Loving this new vibe! 😍,"#Fitness, #Travel, #Tech",3706,374,185,23,3,14,positive
+297,Twitter,image,02-01-2023,Monday,09:30 PM,Best day ever! 🎉,#Sports,376,131,87,16,1,21,positive
+298,Instagram,text,17-05-2023,Wednesday,02:00 AM,Best day ever! 🎉,"#Travel, #Beauty",576,285,806,16,2,2,positive
+299,Instagram,image,08-10-2023,Sunday,01:00 PM,"New post, check it out!","#Beauty, #Photography, #Foodie",1675,336,260,23,3,13,neutral
+300,Facebook,poll,02-01-2023,Monday,03:15 AM,Not my best day. 😞,#Family,1379,328,29,18,1,3,negative
+301,Facebook,image,07-07-2023,Friday,07:00 AM,Here's a quick update.,#Events,4186,347,765,22,1,7,neutral
+302,Instagram,poll,21-12-2023,Thursday,07:30 AM,Exciting news! 🚀,"#Photography, #Fitness, #Beauty",2184,304,777,16,3,7,positive
+303,Facebook,carousel,29-04-2023,Saturday,04:30 PM,Could be better.,"#Family, #Social",544,381,236,16,2,16,negative
+304,Instagram,image,26-10-2023,Thursday,11:15 PM,Disappointed but moving on.,"#Travel, #Fashion",3851,226,884,27,2,23,negative
+305,Instagram,carousel,27-06-2023,Tuesday,09:45 PM,Not my best day. 😞,"#Tech, #Travel",3301,295,982,18,2,21,negative
+306,Twitter,video,22-06-2023,Thursday,01:30 PM,Feeling down today.,"#News, #Entertainment, #Politics",387,225,4,19,3,13,negative
+307,Twitter,carousel,27-12-2023,Wednesday,05:15 PM,Disappointed but moving on.,"#Politics, #News",626,39,233,27,2,17,negative
+308,Facebook,carousel,25-08-2023,Friday,03:15 AM,Loving this new vibe! 😍,"#Friends, #Family, #Community",2786,144,273,23,3,3,positive
+309,Twitter,poll,20-08-2023,Sunday,06:00 AM,Loving this new vibe! 😍,#Entertainment,1294,150,198,23,1,6,positive
+310,Facebook,video,31-01-2023,Tuesday,06:15 PM,Here's a quick update.,#Marketing,3958,355,978,22,1,18,neutral
+311,Instagram,poll,27-08-2023,Sunday,05:15 PM,Loving this new vibe! 😍,"#Tech, #Foodie",3973,432,961,23,2,17,positive
+312,Facebook,image,28-03-2023,Tuesday,08:00 PM,Here's a quick update.,"#Friends, #Community",360,500,833,22,2,20,neutral
+313,Twitter,carousel,20-09-2023,Wednesday,06:00 PM,Loving this new vibe! 😍,"#Politics, #Trending, #Memes",1744,246,119,23,3,18,positive
+314,Instagram,image,06-01-2023,Friday,03:15 AM,Loving this new vibe! 😍,"#Fashion, #InstaDaily, #Photography",1477,500,74,23,3,3,positive
+315,Facebook,video,03-06-2023,Saturday,02:15 AM,Amazing experience! 🌟,"#Events, #Community, #Family",3246,500,549,21,3,2,positive
+316,Facebook,image,13-11-2023,Monday,07:45 AM,"New post, check it out!","#Community, #Friends, #Marketing",3267,238,307,23,3,7,neutral
+317,Twitter,image,09-09-2023,Saturday,10:15 PM,Disappointed but moving on.,"#Sports, #Tech, #Memes",3487,228,244,27,3,22,negative
+318,Facebook,video,06-09-2023,Wednesday,09:30 PM,Best day ever! 🎉,"#Friends, #Events",5000,366,660,16,2,21,positive
+319,Instagram,video,29-01-2023,Sunday,09:00 PM,Loving this new vibe! 😍,"#Photography, #InstaDaily, #Fashion",5000,500,433,23,3,21,positive
+320,Twitter,image,07-06-2023,Wednesday,04:45 AM,Exciting news! 🚀,"#News, #Sports, #Tech",1869,152,49,16,3,4,positive
+321,Instagram,video,01-12-2023,Friday,01:15 AM,Here's a quick update.,"#Foodie, #Fashion, #Fitness",3907,500,415,22,3,1,neutral
+322,Twitter,video,13-04-2023,Thursday,12:00 PM,Just another day.,"#Sports, #Memes",3541,47,315,17,2,12,neutral
+323,Twitter,text,15-01-2023,Sunday,12:30 PM,Exciting news! 🚀,"#Politics, #News, #Sports",600,204,178,16,3,12,positive
+324,Twitter,text,12-12-2023,Tuesday,06:45 PM,Feeling down today.,"#Memes, #Politics",1909,153,27,19,2,18,negative
+325,Facebook,video,20-09-2023,Wednesday,12:30 PM,Amazing experience! 🌟,"#Marketing, #Events",1141,500,302,21,2,12,positive
+326,Facebook,text,22-06-2023,Thursday,06:30 PM,Disappointed but moving on.,"#Community, #Marketing",3477,454,740,27,2,18,negative
+327,Instagram,text,07-03-2023,Tuesday,08:30 PM,What do you think?,"#Travel, #Foodie",1040,430,198,18,2,20,neutral
+328,Twitter,image,08-05-2023,Monday,03:30 AM,Loving this new vibe! 😍,"#Memes, #Sports",735,129,336,23,2,3,positive
+329,Instagram,carousel,30-09-2023,Saturday,10:00 AM,Just another day.,"#Photography, #Fitness",896,318,585,17,2,10,neutral
+330,Facebook,poll,26-08-2023,Saturday,10:45 AM,Not my best day. 😞,"#Events, #Social",5000,83,796,18,2,10,negative
+331,Twitter,carousel,29-10-2023,Sunday,09:00 AM,Exciting news! 🚀,#News,1026,221,49,16,1,9,positive
+332,Instagram,poll,14-09-2023,Thursday,12:45 PM,Feeling down today.,"#Photography, #Beauty, #Tech",3500,45,209,19,3,12,negative
+333,Instagram,carousel,01-09-2023,Friday,04:00 PM,Not my best day. 😞,"#Fitness, #Beauty",1220,56,797,18,2,16,negative
+334,Instagram,image,21-05-2023,Sunday,12:00 AM,Disappointed but moving on.,#Travel,945,450,106,27,1,0,negative
+335,Facebook,text,22-04-2023,Saturday,03:00 AM,Just another day.,#Friends,3282,278,847,17,1,3,neutral
+336,Facebook,text,12-10-2023,Thursday,12:45 AM,Amazing experience! 🌟,#Social,2675,292,503,21,1,0,positive
+337,Facebook,text,12-02-2023,Sunday,01:45 AM,Loving this new vibe! 😍,"#Marketing, #Events",3118,79,725,23,2,1,positive
+338,Twitter,carousel,18-11-2023,Saturday,11:30 PM,Feeling down today.,#Trending,2110,188,66,19,1,23,negative
+339,Twitter,text,21-10-2023,Saturday,06:15 PM,"New post, check it out!",#Memes,831,128,11,23,1,18,neutral
+340,Twitter,image,30-08-2023,Wednesday,01:45 AM,Exciting news! 🚀,"#Entertainment, #News",569,67,68,16,2,1,positive
+341,Facebook,poll,21-03-2023,Tuesday,02:15 AM,"New post, check it out!",#Family,3279,303,158,23,1,2,neutral
+342,Twitter,poll,01-04-2023,Saturday,02:45 PM,Exciting news! 🚀,"#Tech, #Sports",1987,216,402,16,2,14,positive
+343,Facebook,image,17-04-2023,Monday,12:30 PM,"New post, check it out!","#Social, #Events",218,119,588,23,2,12,neutral
+344,Twitter,poll,11-11-2023,Saturday,02:30 AM,Best day ever! 🎉,"#Entertainment, #Politics",2742,143,116,16,2,2,positive
+345,Facebook,image,05-09-2023,Tuesday,06:45 PM,Amazing experience! 🌟,"#Events, #Social",2667,276,834,21,2,18,positive
+346,Instagram,image,11-09-2023,Monday,12:15 PM,Best day ever! 🎉,"#Beauty, #Fitness",4327,148,962,16,2,12,positive
+347,Twitter,carousel,31-08-2023,Thursday,06:15 PM,Disappointed but moving on.,"#Politics, #Trending, #Tech",2983,100,209,27,3,18,negative
+348,Facebook,text,01-07-2023,Saturday,05:15 PM,Could be better.,"#Marketing, #Social, #Friends",1387,175,242,16,3,17,negative
+349,Instagram,image,15-08-2023,Tuesday,09:15 PM,Exciting news! 🚀,"#InstaDaily, #Foodie",45,311,612,16,2,21,positive
+350,Twitter,video,30-10-2023,Monday,11:30 AM,Exciting news! 🚀,"#Trending, #Entertainment",1937,147,494,16,2,11,positive
+351,Twitter,image,09-01-2023,Monday,10:15 AM,Could be better.,#Tech,383,81,309,16,1,10,negative
+352,Twitter,text,04-05-2023,Thursday,01:30 PM,Here's a quick update.,#Tech,1843,58,408,22,1,13,neutral
+353,Twitter,carousel,31-10-2023,Tuesday,05:30 PM,Best day ever! 🎉,"#Sports, #Memes",142,63,224,16,2,17,positive
+354,Instagram,poll,14-02-2023,Tuesday,07:00 PM,Could be better.,"#Travel, #Foodie, #Photography",4501,390,40,16,3,19,negative
+355,Facebook,image,22-07-2023,Saturday,10:30 AM,Disappointed but moving on.,"#Marketing, #Social, #Friends",3110,453,382,27,3,10,negative
+356,Instagram,text,06-05-2023,Saturday,09:45 AM,Loving this new vibe! 😍,"#Fashion, #Beauty, #Tech",3354,367,261,23,3,9,positive
+357,Instagram,carousel,09-01-2023,Monday,03:00 AM,"New post, check it out!","#Tech, #Beauty, #Photography",3840,450,397,23,3,3,neutral
+358,Facebook,poll,26-02-2023,Sunday,03:30 PM,Feeling down today.,"#Social, #Marketing",117,410,600,19,2,15,negative
+359,Instagram,carousel,26-03-2023,Sunday,01:30 AM,Not my best day. 😞,#Fashion,2043,393,591,18,1,1,negative
+360,Facebook,carousel,22-04-2023,Saturday,03:15 AM,Disappointed but moving on.,"#Community, #Friends",147,500,294,27,2,3,negative
+361,Facebook,image,12-04-2023,Wednesday,01:00 PM,Disappointed but moving on.,"#Social, #Friends, #Marketing",2250,483,636,27,3,13,negative
+362,Instagram,video,26-01-2023,Thursday,08:45 PM,Not my best day. 😞,"#Fitness, #Photography, #Foodie",2571,225,884,18,3,20,negative
+363,Facebook,video,04-08-2023,Friday,03:45 PM,Amazing experience! 🌟,#Events,1528,379,513,21,1,15,positive
+364,Twitter,poll,23-08-2023,Wednesday,12:00 AM,Amazing experience! 🌟,"#Entertainment, #Tech, #Memes",409,63,409,21,3,0,positive
+365,Twitter,poll,31-12-2023,Sunday,09:45 AM,Not my best day. 😞,"#Entertainment, #Trending, #News",1273,230,267,18,3,9,negative
+366,Instagram,video,19-04-2023,Wednesday,08:45 AM,"New post, check it out!",#Foodie,1296,500,588,23,1,8,neutral
+367,Twitter,poll,20-02-2023,Monday,09:15 PM,What do you think?,#Sports,1252,32,216,18,1,21,neutral
+368,Instagram,poll,06-05-2023,Saturday,10:15 AM,Not my best day. 😞,"#Tech, #Travel",3874,500,489,18,2,10,negative
+369,Instagram,image,03-10-2023,Tuesday,05:15 AM,Just another day.,#InstaDaily,3454,406,497,17,1,5,neutral
+370,Facebook,image,29-07-2023,Saturday,11:45 PM,Disappointed but moving on.,#Friends,2470,323,251,27,1,23,negative
+371,Twitter,video,16-06-2023,Friday,03:45 PM,Exciting news! 🚀,#Politics,752,209,250,16,1,15,positive
+372,Facebook,poll,25-11-2023,Saturday,11:30 PM,Feeling down today.,#Family,2874,500,647,19,1,23,negative
+373,Facebook,carousel,03-07-2023,Monday,03:15 AM,What do you think?,#Events,1471,263,489,18,1,3,neutral
+374,Facebook,video,22-10-2023,Sunday,07:30 AM,Amazing experience! 🌟,"#Family, #Friends",2410,439,527,21,2,7,positive
+375,Instagram,poll,14-11-2023,Tuesday,09:45 AM,Exciting news! 🚀,#Tech,1485,47,632,16,1,9,positive
+376,Twitter,carousel,03-11-2023,Friday,08:00 AM,Disappointed but moving on.,"#Politics, #News, #Tech",666,223,452,27,3,8,negative
+377,Instagram,carousel,03-01-2023,Tuesday,05:30 AM,Best day ever! 🎉,#Travel,109,288,510,16,1,5,positive
+378,Twitter,text,25-06-2023,Sunday,03:30 AM,Loving this new vibe! 😍,"#Tech, #Memes",691,90,93,23,2,3,positive
+379,Twitter,image,18-10-2023,Wednesday,05:30 AM,Best day ever! 🎉,#Memes,1532,51,224,16,1,5,positive
+380,Twitter,image,08-03-2023,Wednesday,08:30 AM,Amazing experience! 🌟,"#Tech, #Sports",2564,112,30,21,2,8,positive
+381,Facebook,carousel,13-01-2023,Friday,05:30 PM,Just another day.,"#Events, #Family, #Friends",1214,65,696,17,3,17,neutral
+382,Facebook,image,22-01-2023,Sunday,08:00 AM,Not my best day. 😞,"#Friends, #Events",4513,438,799,18,2,8,negative
+383,Instagram,text,26-10-2023,Thursday,01:00 AM,Disappointed but moving on.,"#Travel, #Photography",2613,77,441,27,2,1,negative
+384,Instagram,text,20-03-2023,Monday,04:45 PM,Could be better.,"#InstaDaily, #Foodie",3062,220,916,16,2,16,negative
+385,Instagram,video,07-06-2023,Wednesday,12:15 PM,Could be better.,"#Travel, #Tech",5000,344,753,16,2,12,negative
+386,Facebook,text,16-07-2023,Sunday,11:15 PM,Disappointed but moving on.,"#Social, #Family",1239,81,424,27,2,23,negative
+387,Twitter,text,27-11-2023,Monday,07:45 AM,Feeling down today.,"#Sports, #Trending, #Politics",261,170,477,19,3,7,negative
+388,Facebook,image,18-05-2023,Thursday,12:30 PM,Could be better.,"#Family, #Events",825,457,771,16,2,12,negative
+389,Twitter,text,02-02-2023,Thursday,12:00 AM,What do you think?,#Tech,1439,97,453,18,1,0,neutral
+390,Instagram,image,08-11-2023,Wednesday,08:30 PM,Exciting news! 🚀,"#Travel, #InstaDaily, #Fitness",4064,50,904,16,3,20,positive
+391,Twitter,carousel,13-11-2023,Monday,02:15 AM,Could be better.,"#Politics, #Sports",2952,212,493,16,2,2,negative
+392,Instagram,poll,28-02-2023,Tuesday,04:15 PM,"New post, check it out!","#Photography, #Beauty, #Fashion",2738,94,892,23,3,16,neutral
+393,Facebook,video,26-10-2023,Thursday,06:00 AM,Could be better.,#Marketing,3924,239,550,16,1,6,negative
+394,Instagram,image,11-10-2023,Wednesday,05:45 PM,"New post, check it out!",#Beauty,4856,396,37,23,1,17,neutral
+395,Facebook,video,17-08-2023,Thursday,03:30 PM,Could be better.,#Family,7,287,886,16,1,15,negative
+396,Facebook,image,21-03-2023,Tuesday,09:15 AM,Amazing experience! 🌟,#Community,4096,262,417,21,1,9,positive
+397,Twitter,text,26-04-2023,Wednesday,04:45 PM,Best day ever! 🎉,"#Trending, #News, #Politics",1818,32,245,16,3,16,positive
+398,Twitter,image,10-04-2023,Monday,01:45 PM,Amazing experience! 🌟,#Entertainment,1055,180,231,21,1,13,positive
+399,Facebook,carousel,01-01-2023,Sunday,05:45 AM,Here's a quick update.,"#Community, #Events, #Friends",1500,214,419,22,3,5,neutral
+400,Twitter,carousel,17-03-2023,Friday,06:45 AM,Amazing experience! 🌟,"#News, #Memes, #Politics",1489,79,200,21,3,6,positive
+401,Facebook,text,23-10-2023,Monday,08:45 PM,"New post, check it out!",#Family,2948,309,1000,23,1,20,neutral
+402,Twitter,carousel,14-03-2023,Tuesday,01:15 AM,Here's a quick update.,#Memes,246,70,325,22,1,1,neutral
+403,Twitter,image,23-09-2023,Saturday,10:00 PM,Amazing experience! 🌟,#News,3469,200,2,21,1,22,positive
+404,Twitter,image,15-05-2023,Monday,03:15 PM,Loving this new vibe! 😍,"#Tech, #News, #Entertainment",2779,226,216,23,3,15,positive
+405,Instagram,carousel,30-05-2023,Tuesday,05:30 PM,Feeling down today.,"#Foodie, #Fashion",8,43,219,19,2,17,negative
+406,Instagram,image,22-11-2023,Wednesday,08:00 AM,Just another day.,"#Fitness, #Beauty",210,147,832,17,2,8,neutral
+407,Twitter,carousel,11-04-2023,Tuesday,06:15 AM,Could be better.,#Entertainment,880,205,475,16,1,6,negative
+408,Facebook,carousel,10-04-2023,Monday,03:45 PM,Here's a quick update.,"#Social, #Family",2319,276,833,22,2,15,neutral
+409,Instagram,text,08-11-2023,Wednesday,10:00 AM,Could be better.,"#Fashion, #Travel",2925,416,571,16,2,10,negative
+410,Twitter,poll,15-04-2023,Saturday,06:30 PM,Amazing experience! 🌟,#Tech,2754,137,330,21,1,18,positive
+411,Facebook,poll,17-08-2023,Thursday,09:30 AM,Could be better.,"#Marketing, #Social",1364,270,419,16,2,9,negative
+412,Facebook,carousel,26-09-2023,Tuesday,02:00 AM,Just another day.,"#Events, #Social, #Friends",3647,257,126,17,3,2,neutral
+413,Instagram,carousel,21-10-2023,Saturday,01:30 AM,Exciting news! 🚀,#Travel,78,289,958,16,1,1,positive
+414,Instagram,text,14-08-2023,Monday,04:45 AM,Not my best day. 😞,"#InstaDaily, #Tech",898,251,617,18,2,4,negative
+415,Facebook,video,29-07-2023,Saturday,08:45 AM,Not my best day. 😞,"#Community, #Family",1864,500,250,18,2,8,negative
+416,Instagram,text,07-09-2023,Thursday,03:15 AM,Best day ever! 🎉,"#Fitness, #Foodie, #Beauty",1425,285,757,16,3,3,positive
+417,Twitter,carousel,22-08-2023,Tuesday,12:00 PM,Best day ever! 🎉,#Sports,3417,78,284,16,1,12,positive
+418,Facebook,text,06-07-2023,Thursday,05:15 AM,What do you think?,"#Social, #Events, #Friends",2613,98,681,18,3,5,neutral
+419,Twitter,carousel,29-03-2023,Wednesday,03:30 AM,Best day ever! 🎉,#Sports,2701,41,235,16,1,3,positive
+420,Twitter,poll,09-12-2023,Saturday,04:00 PM,Just another day.,#Memes,42,52,23,17,1,16,neutral
+421,Facebook,text,27-08-2023,Sunday,09:30 PM,"New post, check it out!","#Family, #Community",1917,263,706,23,2,21,neutral
+422,Instagram,image,28-04-2023,Friday,07:30 AM,Exciting news! 🚀,"#Fashion, #Photography",151,153,914,16,2,7,positive
+423,Twitter,poll,02-12-2023,Saturday,09:30 PM,Just another day.,#Memes,243,21,243,17,1,21,neutral
+424,Twitter,image,27-12-2023,Wednesday,02:45 PM,Here's a quick update.,#Politics,2235,53,277,22,1,14,neutral
+425,Instagram,text,27-05-2023,Saturday,06:30 PM,Amazing experience! 🌟,"#Foodie, #Beauty, #Photography",2114,483,838,21,3,18,positive
+426,Instagram,carousel,21-06-2023,Wednesday,08:00 PM,Amazing experience! 🌟,#Beauty,5000,429,770,21,1,20,positive
+427,Facebook,carousel,28-12-2023,Thursday,10:15 AM,Disappointed but moving on.,"#Community, #Friends, #Family",837,62,65,27,3,10,negative
+428,Facebook,image,25-09-2023,Monday,05:30 PM,Could be better.,#Community,1626,248,213,16,1,17,negative
+429,Facebook,image,19-09-2023,Tuesday,03:15 PM,Here's a quick update.,"#Friends, #Events, #Community",426,168,940,22,3,15,neutral
+430,Twitter,video,25-01-2023,Wednesday,11:15 AM,Amazing experience! 🌟,"#Politics, #Tech, #News",795,32,336,21,3,11,positive
+431,Instagram,text,28-08-2023,Monday,05:30 AM,Not my best day. 😞,"#Fashion, #Fitness, #Foodie",3337,314,776,18,3,5,negative
+432,Twitter,poll,22-12-2023,Friday,09:00 AM,Loving this new vibe! 😍,"#Politics, #Entertainment",2253,144,342,23,2,9,positive
+433,Instagram,carousel,01-02-2023,Wednesday,06:45 PM,Disappointed but moving on.,#Tech,5000,180,59,27,1,18,negative
+434,Facebook,carousel,12-09-2023,Tuesday,11:00 AM,Best day ever! 🎉,#Friends,1714,322,657,16,1,11,positive
+435,Facebook,text,04-06-2023,Sunday,02:45 PM,Could be better.,#Friends,3732,27,699,16,1,14,negative
+436,Twitter,video,06-06-2023,Tuesday,01:15 AM,"New post, check it out!",#Trending,2795,210,30,23,1,1,neutral
+437,Twitter,image,03-05-2023,Wednesday,09:30 PM,Not my best day. 😞,#Memes,1597,163,244,18,1,21,negative
+438,Facebook,video,13-04-2023,Thursday,08:30 PM,"New post, check it out!",#Marketing,5000,500,822,23,1,20,neutral
+439,Instagram,video,20-11-2023,Monday,01:15 PM,Just another day.,"#InstaDaily, #Travel",1142,240,675,17,2,13,neutral
+440,Twitter,video,21-07-2023,Friday,06:00 PM,Here's a quick update.,"#Entertainment, #Memes",3866,229,420,22,2,18,neutral
+441,Facebook,video,24-01-2023,Tuesday,01:45 AM,Not my best day. 😞,"#Events, #Friends",4845,173,422,18,2,1,negative
+442,Twitter,carousel,26-11-2023,Sunday,09:00 AM,Best day ever! 🎉,"#News, #Tech, #Politics",27,146,322,16,3,9,positive
+443,Facebook,image,22-04-2023,Saturday,11:00 PM,Could be better.,#Events,4557,234,589,16,1,23,negative
+444,Twitter,text,23-02-2023,Thursday,04:00 PM,What do you think?,#Tech,1448,87,228,18,1,16,neutral
+445,Facebook,video,06-10-2023,Friday,01:15 AM,Could be better.,"#Social, #Community",1062,399,805,16,2,1,negative
+446,Instagram,carousel,30-12-2023,Saturday,09:45 AM,Best day ever! 🎉,"#Beauty, #Travel",1585,87,413,16,2,9,positive
+447,Twitter,image,01-06-2023,Thursday,06:00 AM,Best day ever! 🎉,#News,1619,203,400,16,1,6,positive
+448,Twitter,text,30-12-2023,Saturday,06:15 PM,What do you think?,#News,2034,78,375,18,1,18,neutral
+449,Facebook,image,13-09-2023,Wednesday,04:00 AM,Not my best day. 😞,"#Friends, #Social",263,231,365,18,2,4,negative
+450,Instagram,poll,12-06-2023,Monday,10:00 AM,Exciting news! 🚀,"#Fashion, #InstaDaily, #Tech",103,152,181,16,3,10,positive
+451,Facebook,video,12-02-2023,Sunday,12:45 AM,Just another day.,"#Community, #Family",5000,160,137,17,2,0,neutral
+452,Instagram,image,14-05-2023,Sunday,11:00 AM,Amazing experience! 🌟,#Beauty,2492,344,679,21,1,11,positive
+453,Twitter,video,10-11-2023,Friday,06:15 AM,Disappointed but moving on.,#Tech,3374,151,208,27,1,6,negative
+454,Twitter,poll,06-12-2023,Wednesday,03:45 AM,Best day ever! 🎉,"#Memes, #Sports",955,58,51,16,2,3,positive
+455,Twitter,video,13-05-2023,Saturday,10:45 AM,What do you think?,"#Sports, #Politics",2493,23,395,18,2,10,neutral
+456,Twitter,text,14-05-2023,Sunday,12:30 PM,Exciting news! 🚀,"#News, #Trending",1480,154,369,16,2,12,positive
+457,Instagram,image,18-08-2023,Friday,07:15 AM,Loving this new vibe! 😍,"#Travel, #Foodie, #Tech",4629,424,293,23,3,7,positive
+458,Twitter,poll,25-06-2023,Sunday,01:30 PM,Exciting news! 🚀,#Sports,450,131,74,16,1,13,positive
+459,Facebook,carousel,08-07-2023,Saturday,04:15 AM,Here's a quick update.,#Family,1644,63,475,22,1,4,neutral
+460,Twitter,poll,06-05-2023,Saturday,01:30 PM,Just another day.,"#Sports, #Entertainment",784,160,59,17,2,13,neutral
+461,Twitter,video,19-02-2023,Sunday,08:45 PM,Here's a quick update.,"#Memes, #News",4258,124,66,22,2,20,neutral
+462,Facebook,video,15-11-2023,Wednesday,12:45 AM,Just another day.,#Friends,4720,238,0,17,1,0,neutral
+463,Twitter,carousel,20-01-2023,Friday,01:00 AM,"New post, check it out!",#News,2284,53,218,23,1,1,neutral
+464,Facebook,carousel,22-04-2023,Saturday,06:00 PM,"New post, check it out!","#Events, #Marketing, #Social",3164,61,398,23,3,18,neutral
+465,Instagram,carousel,05-10-2023,Thursday,02:30 PM,What do you think?,#Travel,4102,180,343,18,1,14,neutral
+466,Instagram,poll,23-12-2023,Saturday,05:30 AM,What do you think?,#Fitness,3394,16,217,18,1,5,neutral
+467,Facebook,poll,15-09-2023,Friday,05:15 AM,Just another day.,#Marketing,1676,176,459,17,1,5,neutral
+468,Facebook,carousel,17-10-2023,Tuesday,12:00 PM,Loving this new vibe! 😍,#Friends,1933,161,979,23,1,12,positive
+469,Twitter,carousel,05-03-2023,Sunday,12:00 AM,Here's a quick update.,#Memes,2407,173,379,22,1,0,neutral
+470,Twitter,carousel,04-11-2023,Saturday,07:45 PM,Amazing experience! 🌟,#Trending,3090,67,265,21,1,19,positive
+471,Twitter,text,05-07-2023,Wednesday,10:00 AM,Amazing experience! 🌟,"#Memes, #Entertainment",767,28,155,21,2,10,positive
+472,Facebook,poll,07-04-2023,Friday,02:45 PM,Here's a quick update.,#Social,4811,115,683,22,1,14,neutral
+473,Twitter,text,27-06-2023,Tuesday,02:45 PM,Loving this new vibe! 😍,"#Trending, #Memes, #Sports",1675,54,89,23,3,14,positive
+474,Twitter,text,25-08-2023,Friday,03:45 PM,Loving this new vibe! 😍,"#Trending, #Entertainment",871,92,355,23,2,15,positive
+475,Instagram,text,01-03-2023,Wednesday,06:45 AM,Loving this new vibe! 😍,"#Fitness, #Beauty, #Tech",217,289,299,23,3,6,positive
+476,Instagram,text,27-01-2023,Friday,01:00 AM,Could be better.,"#Fitness, #Tech",2615,376,70,16,2,1,negative
+477,Twitter,poll,22-10-2023,Sunday,11:15 PM,Best day ever! 🎉,"#Tech, #News, #Entertainment",72,118,4,16,3,23,positive
+478,Instagram,video,19-06-2023,Monday,04:00 PM,Exciting news! 🚀,#Fashion,2291,323,277,16,1,16,positive
+479,Facebook,video,09-01-2023,Monday,12:45 PM,Not my best day. 😞,"#Community, #Friends",2700,367,101,18,2,12,negative
+480,Instagram,poll,31-07-2023,Monday,11:30 PM,Loving this new vibe! 😍,#Travel,1121,369,662,23,1,23,positive
+481,Instagram,poll,19-05-2023,Friday,07:30 PM,Exciting news! 🚀,"#Beauty, #Tech, #Travel",2565,175,952,16,3,19,positive
+482,Twitter,poll,24-09-2023,Sunday,03:30 PM,Disappointed but moving on.,#Memes,3123,189,487,27,1,15,negative
+483,Twitter,carousel,16-10-2023,Monday,03:45 PM,Not my best day. 😞,#Sports,1542,33,121,18,1,15,negative
+484,Facebook,poll,11-11-2023,Saturday,12:15 AM,Not my best day. 😞,#Marketing,747,397,755,18,1,0,negative
+485,Facebook,image,29-05-2023,Monday,08:15 AM,Amazing experience! 🌟,"#Family, #Marketing",4306,209,923,21,2,8,positive
+486,Facebook,image,06-07-2023,Thursday,06:45 AM,Loving this new vibe! 😍,"#Friends, #Family",2057,328,870,23,2,6,positive
+487,Facebook,image,08-08-2023,Tuesday,05:00 AM,Loving this new vibe! 😍,#Family,3742,383,541,23,1,5,positive
+488,Twitter,carousel,18-01-2023,Wednesday,06:15 AM,Exciting news! 🚀,"#Memes, #Sports",1154,145,21,16,2,6,positive
+489,Twitter,video,10-01-2023,Tuesday,11:00 AM,Exciting news! 🚀,"#Tech, #Memes",1615,161,315,16,2,11,positive
+490,Facebook,poll,13-05-2023,Saturday,02:30 PM,Could be better.,"#Marketing, #Events",2295,447,817,16,2,14,negative
+491,Facebook,image,02-10-2023,Monday,05:30 PM,Loving this new vibe! 😍,"#Events, #Community",3956,440,48,23,2,17,positive
+492,Facebook,video,20-01-2023,Friday,10:45 AM,What do you think?,"#Social, #Events",1198,276,76,18,2,10,neutral
+493,Facebook,video,13-08-2023,Sunday,09:30 PM,What do you think?,"#Marketing, #Events, #Social",3868,417,912,18,3,21,neutral
+494,Facebook,image,10-02-2023,Friday,12:15 PM,Exciting news! 🚀,"#Marketing, #Social",4532,427,362,16,2,12,positive
+495,Twitter,text,15-08-2023,Tuesday,05:00 AM,Loving this new vibe! 😍,#News,1386,162,83,23,1,5,positive
+496,Instagram,text,29-08-2023,Tuesday,08:15 AM,"New post, check it out!","#Fitness, #Tech, #InstaDaily",46,178,652,23,3,8,neutral
+497,Twitter,carousel,19-01-2023,Thursday,01:00 PM,Not my best day. 😞,"#Tech, #Sports",2304,211,341,18,2,13,negative
+498,Instagram,image,12-07-2023,Wednesday,08:45 AM,Feeling down today.,"#Tech, #Travel, #Fitness",3439,173,195,19,3,8,negative
+499,Twitter,video,07-11-2023,Tuesday,02:15 AM,Disappointed but moving on.,"#Politics, #News, #Trending",3165,188,212,27,3,2,negative
+500,Twitter,carousel,26-12-2023,Tuesday,06:15 PM,What do you think?,"#Memes, #Tech, #Politics",2748,239,4,18,3,18,neutral
+501,Instagram,text,26-01-2023,Thursday,03:30 AM,Could be better.,"#Photography, #InstaDaily",1261,304,256,16,2,3,negative
+502,Facebook,poll,08-11-2023,Wednesday,05:15 PM,Just another day.,"#Community, #Friends",606,459,57,17,2,17,neutral
+503,Facebook,poll,06-08-2023,Sunday,02:15 PM,Just another day.,#Social,1844,490,780,17,1,14,neutral
+504,Facebook,image,14-09-2023,Thursday,04:15 PM,What do you think?,"#Community, #Social",3613,500,702,18,2,16,neutral
+505,Instagram,video,22-01-2023,Sunday,02:45 AM,Best day ever! 🎉,#Foodie,3507,283,142,16,1,2,positive
+506,Twitter,poll,05-09-2023,Tuesday,08:30 AM,Just another day.,"#News, #Politics, #Memes",2231,90,50,17,3,8,neutral
+507,Instagram,text,08-06-2023,Thursday,04:45 AM,Feeling down today.,"#Fashion, #InstaDaily",2795,145,920,19,2,4,negative
+508,Twitter,text,03-12-2023,Sunday,05:30 AM,Loving this new vibe! 😍,"#News, #Trending",1094,143,387,23,2,5,positive
+509,Instagram,carousel,28-03-2023,Tuesday,08:00 AM,Just another day.,#Fitness,3207,267,118,17,1,8,neutral
+510,Twitter,poll,13-12-2023,Wednesday,12:00 PM,Feeling down today.,#Tech,1125,102,331,19,1,12,negative
+511,Twitter,image,18-08-2023,Friday,06:15 AM,Loving this new vibe! 😍,#Tech,1947,10,127,23,1,6,positive
+512,Twitter,poll,28-03-2023,Tuesday,07:30 PM,"New post, check it out!","#Sports, #News, #Trending",2547,203,462,23,3,19,neutral
+513,Twitter,carousel,19-06-2023,Monday,06:30 PM,Here's a quick update.,"#Sports, #Memes",482,186,74,22,2,18,neutral
+514,Twitter,image,03-03-2023,Friday,05:00 AM,Just another day.,"#Trending, #News, #Sports",1521,148,372,17,3,5,neutral
+515,Instagram,poll,11-08-2023,Friday,05:30 AM,Here's a quick update.,#Photography,3773,304,550,22,1,5,neutral
+516,Twitter,carousel,03-06-2023,Saturday,01:30 AM,Feeling down today.,"#Trending, #Sports",3138,133,281,19,2,1,negative
+517,Twitter,image,17-05-2023,Wednesday,08:15 PM,What do you think?,"#Trending, #News",1764,229,252,18,2,20,neutral
+518,Instagram,poll,17-04-2023,Monday,12:15 PM,Could be better.,"#Photography, #Foodie, #InstaDaily",2218,76,964,16,3,12,negative
+519,Instagram,carousel,18-06-2023,Sunday,02:30 AM,Not my best day. 😞,"#Beauty, #Fashion",4599,380,203,18,2,2,negative
+520,Twitter,image,19-05-2023,Friday,09:15 PM,Here's a quick update.,#Memes,582,33,199,22,1,21,neutral
+521,Instagram,poll,17-02-2023,Friday,09:30 PM,Here's a quick update.,"#Foodie, #InstaDaily",4261,271,483,22,2,21,neutral
+522,Twitter,poll,29-11-2023,Wednesday,12:15 PM,"New post, check it out!","#Politics, #Memes, #Trending",2000,111,117,23,3,12,neutral
+523,Instagram,image,01-12-2023,Friday,09:00 AM,Here's a quick update.,"#Fashion, #Tech",1553,306,608,22,2,9,neutral
+524,Facebook,text,07-03-2023,Tuesday,06:00 PM,"New post, check it out!",#Family,1945,74,198,23,1,18,neutral
+525,Instagram,video,15-06-2023,Thursday,12:00 AM,Loving this new vibe! 😍,"#Foodie, #Travel, #Beauty",621,49,502,23,3,0,positive
+526,Instagram,text,18-01-2023,Wednesday,09:00 AM,Could be better.,#Beauty,573,217,242,16,1,9,negative
+527,Instagram,video,23-03-2023,Thursday,08:15 AM,Best day ever! 🎉,"#Photography, #Travel, #Tech",2016,500,974,16,3,8,positive
+528,Facebook,poll,19-08-2023,Saturday,08:15 PM,What do you think?,"#Community, #Friends, #Events",1116,393,358,18,3,20,neutral
+529,Instagram,video,19-03-2023,Sunday,07:45 PM,Best day ever! 🎉,#Photography,4597,235,481,16,1,19,positive
+530,Twitter,video,28-04-2023,Friday,09:15 PM,Best day ever! 🎉,"#Memes, #Sports",2044,255,102,16,2,21,positive
+531,Instagram,text,14-03-2023,Tuesday,06:00 AM,Best day ever! 🎉,#Photography,163,170,23,16,1,6,positive
+532,Instagram,poll,30-01-2023,Monday,05:30 PM,Here's a quick update.,#InstaDaily,4014,468,808,22,1,17,neutral
+533,Instagram,video,29-08-2023,Tuesday,05:15 AM,Just another day.,"#Foodie, #Travel, #Tech",4754,500,774,17,3,5,neutral
+534,Instagram,text,29-06-2023,Thursday,09:45 AM,Here's a quick update.,#Beauty,1778,333,406,22,1,9,neutral
+535,Facebook,image,27-09-2023,Wednesday,08:30 PM,Feeling down today.,"#Social, #Marketing",2182,341,423,19,2,20,negative
+536,Instagram,video,10-07-2023,Monday,07:00 PM,Loving this new vibe! 😍,"#Fitness, #Travel",5000,64,426,23,2,19,positive
+537,Twitter,text,03-05-2023,Wednesday,01:45 PM,Disappointed but moving on.,"#Politics, #Memes, #Sports",244,158,446,27,3,13,negative
+538,Instagram,poll,17-10-2023,Tuesday,07:15 AM,What do you think?,#Foodie,3355,483,263,18,1,7,neutral
+539,Instagram,poll,22-11-2023,Wednesday,06:15 AM,Disappointed but moving on.,#Fitness,1789,500,349,27,1,6,negative
+540,Twitter,carousel,20-12-2023,Wednesday,04:15 PM,Feeling down today.,#Memes,1753,18,56,19,1,16,negative
+541,Twitter,text,06-02-2023,Monday,04:15 AM,Feeling down today.,"#Politics, #Memes",398,172,376,19,2,4,negative
+542,Instagram,carousel,19-08-2023,Saturday,03:00 PM,Not my best day. 😞,"#InstaDaily, #Fitness, #Travel",626,319,102,18,3,15,negative
+543,Facebook,carousel,15-11-2023,Wednesday,04:15 AM,Loving this new vibe! 😍,"#Community, #Marketing",2171,131,516,23,2,4,positive
+544,Instagram,image,24-04-2023,Monday,05:00 PM,Could be better.,"#Travel, #InstaDaily",1292,233,318,16,2,17,negative
+545,Instagram,image,20-04-2023,Thursday,11:45 PM,Best day ever! 🎉,"#Beauty, #InstaDaily, #Fitness",568,169,250,16,3,23,positive
+546,Instagram,carousel,05-04-2023,Wednesday,05:00 PM,Best day ever! 🎉,#Tech,2646,116,536,16,1,17,positive
+547,Facebook,poll,06-11-2023,Monday,02:15 PM,Loving this new vibe! 😍,#Marketing,476,77,626,23,1,14,positive
+548,Facebook,poll,16-05-2023,Tuesday,12:00 PM,Here's a quick update.,"#Community, #Family",946,91,954,22,2,12,neutral
+549,Facebook,image,12-06-2023,Monday,01:45 PM,Here's a quick update.,#Community,3436,243,528,22,1,13,neutral
+550,Twitter,poll,13-04-2023,Thursday,03:00 AM,Here's a quick update.,#Entertainment,2407,160,114,22,1,3,neutral
+551,Twitter,image,17-02-2023,Friday,01:45 PM,Could be better.,"#Entertainment, #Tech, #Politics",1842,87,19,16,3,13,negative
+552,Twitter,video,19-01-2023,Thursday,11:30 AM,"New post, check it out!",#Tech,3862,118,340,23,1,11,neutral
+553,Twitter,text,15-05-2023,Monday,10:30 AM,Feeling down today.,"#Tech, #Sports, #Trending",1522,67,88,19,3,10,negative
+554,Instagram,video,11-07-2023,Tuesday,08:45 AM,Just another day.,#Beauty,2427,103,987,17,1,8,neutral
+555,Twitter,video,23-11-2023,Thursday,11:15 PM,What do you think?,"#News, #Memes, #Entertainment",2154,146,331,18,3,23,neutral
+556,Instagram,poll,05-07-2023,Wednesday,06:45 AM,Not my best day. 😞,"#InstaDaily, #Beauty, #Tech",1753,78,698,18,3,6,negative
+557,Instagram,poll,05-12-2023,Tuesday,08:15 AM,What do you think?,"#InstaDaily, #Photography, #Tech",2330,305,246,18,3,8,neutral
+558,Facebook,text,28-05-2023,Sunday,03:00 AM,Loving this new vibe! 😍,#Friends,1404,232,292,23,1,3,positive
+559,Facebook,image,11-03-2023,Saturday,01:00 AM,Here's a quick update.,"#Events, #Family, #Social",3792,391,908,22,3,1,neutral
+560,Instagram,image,14-03-2023,Tuesday,09:45 AM,What do you think?,"#Beauty, #Fitness, #Photography",4209,444,719,18,3,9,neutral
+561,Instagram,image,06-02-2023,Monday,04:45 AM,Not my best day. 😞,"#InstaDaily, #Fitness",3538,398,984,18,2,4,negative
+562,Instagram,video,19-10-2023,Thursday,11:15 AM,Exciting news! 🚀,"#Fashion, #Travel, #Fitness",4683,68,650,16,3,11,positive
+563,Twitter,text,14-02-2023,Tuesday,05:15 PM,Feeling down today.,"#Sports, #News, #Tech",1874,93,261,19,3,17,negative
+564,Instagram,video,17-04-2023,Monday,10:45 AM,Here's a quick update.,"#Travel, #Beauty",709,272,729,22,2,10,neutral
+565,Facebook,image,13-12-2023,Wednesday,05:30 AM,Could be better.,"#Family, #Community, #Social",2612,36,936,16,3,5,negative
+566,Facebook,poll,06-12-2023,Wednesday,10:45 PM,Here's a quick update.,"#Marketing, #Community",4654,429,752,22,2,22,neutral
+567,Facebook,image,25-02-2023,Saturday,03:45 PM,"New post, check it out!","#Community, #Family, #Friends",1852,500,939,23,3,15,neutral
+568,Instagram,video,06-11-2023,Monday,06:30 PM,Loving this new vibe! 😍,"#Tech, #Photography",2659,255,554,23,2,18,positive
+569,Facebook,poll,17-01-2023,Tuesday,08:15 AM,What do you think?,"#Community, #Social, #Family",4872,256,387,18,3,8,neutral
+570,Facebook,image,09-06-2023,Friday,03:30 AM,Exciting news! 🚀,"#Social, #Marketing",2594,94,841,16,2,3,positive
+571,Twitter,image,30-01-2023,Monday,05:00 AM,Amazing experience! 🌟,"#Tech, #Politics",2599,26,31,21,2,5,positive
+572,Facebook,carousel,08-05-2023,Monday,02:45 AM,"New post, check it out!",#Friends,1629,71,3,23,1,2,neutral
+573,Instagram,image,28-09-2023,Thursday,07:30 AM,Just another day.,"#Foodie, #Photography",2711,360,119,17,2,7,neutral
+574,Facebook,video,15-05-2023,Monday,04:00 PM,What do you think?,#Marketing,3685,335,520,18,1,16,neutral
+575,Facebook,text,03-11-2023,Friday,09:00 PM,Just another day.,"#Friends, #Events",3250,171,110,17,2,21,neutral
+576,Instagram,poll,18-10-2023,Wednesday,06:00 PM,Disappointed but moving on.,"#Photography, #Travel",5000,216,839,27,2,18,negative
+577,Twitter,video,05-05-2023,Friday,05:15 PM,Disappointed but moving on.,"#Memes, #Trending",306,246,70,27,2,17,negative
+578,Twitter,poll,07-06-2023,Wednesday,11:45 PM,Just another day.,"#Memes, #Politics, #Sports",1953,173,372,17,3,23,neutral
+579,Instagram,image,19-09-2023,Tuesday,11:30 AM,Loving this new vibe! 😍,"#Tech, #Fashion",4736,214,925,23,2,11,positive
+580,Facebook,video,11-07-2023,Tuesday,04:45 PM,Not my best day. 😞,"#Family, #Community, #Events",421,500,650,18,3,16,negative
+581,Twitter,text,24-05-2023,Wednesday,04:00 AM,Amazing experience! 🌟,#News,1685,122,140,21,1,4,positive
+582,Instagram,image,21-04-2023,Friday,11:45 AM,What do you think?,"#Fashion, #Photography, #Beauty",4057,184,589,18,3,11,neutral
+583,Instagram,image,26-06-2023,Monday,12:45 PM,What do you think?,"#InstaDaily, #Beauty, #Fitness",1951,49,613,18,3,12,neutral
+584,Instagram,carousel,17-06-2023,Saturday,08:00 AM,What do you think?,"#Foodie, #Fashion",1274,364,89,18,2,8,neutral
+585,Facebook,video,05-07-2023,Wednesday,11:30 AM,Amazing experience! 🌟,"#Community, #Social",4438,99,126,21,2,11,positive
+586,Instagram,text,07-08-2023,Monday,06:30 PM,Disappointed but moving on.,#Fitness,98,54,375,27,1,18,negative
+587,Facebook,video,22-02-2023,Wednesday,02:00 AM,"New post, check it out!","#Family, #Community",5000,84,267,23,2,2,neutral
+588,Twitter,image,04-12-2023,Monday,09:15 PM,Feeling down today.,#Entertainment,1883,17,418,19,1,21,negative
+589,Twitter,video,26-02-2023,Sunday,11:15 AM,Best day ever! 🎉,"#Sports, #Entertainment",2478,242,471,16,2,11,positive
+590,Facebook,poll,29-04-2023,Saturday,10:00 AM,Could be better.,#Friends,2242,336,889,16,1,10,negative
+591,Twitter,poll,22-01-2023,Sunday,04:00 AM,What do you think?,#Entertainment,234,172,326,18,1,4,neutral
+592,Instagram,carousel,04-03-2023,Saturday,03:45 AM,Feeling down today.,#Fitness,5000,359,45,19,1,3,negative
+593,Instagram,image,10-10-2023,Tuesday,09:45 AM,Here's a quick update.,"#Beauty, #Fitness",1681,391,943,22,2,9,neutral
+594,Facebook,carousel,29-07-2023,Saturday,03:45 PM,Exciting news! 🚀,"#Events, #Friends, #Marketing",4168,500,999,16,3,15,positive
+595,Twitter,text,16-07-2023,Sunday,09:15 PM,Not my best day. 😞,#Entertainment,1107,128,89,18,1,21,negative
+596,Instagram,video,20-10-2023,Friday,01:00 PM,Best day ever! 🎉,"#Fashion, #Foodie, #Fitness",1797,183,297,16,3,13,positive
+597,Instagram,text,28-08-2023,Monday,08:00 AM,Disappointed but moving on.,"#Tech, #Travel",1243,188,805,27,2,8,negative
+598,Instagram,image,20-05-2023,Saturday,02:45 AM,Amazing experience! 🌟,"#Fashion, #Fitness",3948,386,546,21,2,2,positive
+599,Facebook,text,06-05-2023,Saturday,02:00 AM,Feeling down today.,"#Friends, #Social, #Events",127,237,55,19,3,2,negative
+600,Instagram,poll,11-02-2023,Saturday,01:00 AM,Exciting news! 🚀,"#Fashion, #Beauty",3370,117,343,16,2,1,positive
+601,Twitter,poll,19-09-2023,Tuesday,11:15 AM,Loving this new vibe! 😍,"#Trending, #Tech, #Memes",737,37,313,23,3,11,positive
+602,Instagram,poll,23-01-2023,Monday,12:30 PM,"New post, check it out!",#Foodie,5000,156,889,23,1,12,neutral
+603,Twitter,carousel,16-05-2023,Tuesday,02:45 AM,Best day ever! 🎉,"#Entertainment, #Tech",2427,40,410,16,2,2,positive
+604,Facebook,video,27-05-2023,Saturday,01:00 AM,Best day ever! 🎉,"#Events, #Community, #Social",1776,500,251,16,3,1,positive
+605,Facebook,video,01-05-2023,Monday,06:30 AM,"New post, check it out!","#Friends, #Marketing",5000,474,945,23,2,6,neutral
+606,Facebook,video,29-12-2023,Friday,12:15 PM,Disappointed but moving on.,"#Marketing, #Community",3324,500,95,27,2,12,negative
+607,Instagram,video,27-04-2023,Thursday,11:00 PM,Loving this new vibe! 😍,"#Fitness, #Photography, #Beauty",3186,447,709,23,3,23,positive
+608,Facebook,video,13-10-2023,Friday,02:45 PM,"New post, check it out!",#Community,3082,199,989,23,1,14,neutral
+609,Facebook,poll,27-04-2023,Thursday,11:00 AM,Exciting news! 🚀,#Events,3619,136,942,16,1,11,positive
+610,Twitter,text,23-05-2023,Tuesday,09:15 AM,Amazing experience! 🌟,#Entertainment,1660,106,114,21,1,9,positive
+611,Instagram,poll,15-02-2023,Wednesday,02:30 AM,What do you think?,"#InstaDaily, #Fitness",1952,215,667,18,2,2,neutral
+612,Facebook,video,25-01-2023,Wednesday,05:15 AM,Exciting news! 🚀,"#Family, #Community",5000,220,118,16,2,5,positive
+613,Twitter,image,26-04-2023,Wednesday,08:45 PM,"New post, check it out!",#Memes,3148,94,269,23,1,20,neutral
+614,Instagram,video,02-10-2023,Monday,10:45 PM,Loving this new vibe! 😍,"#Fashion, #Beauty, #Travel",2719,207,654,23,3,22,positive
+615,Instagram,carousel,25-11-2023,Saturday,07:45 PM,Loving this new vibe! 😍,"#Travel, #Foodie",4974,193,932,23,2,19,positive
+616,Facebook,carousel,05-12-2023,Tuesday,08:30 PM,Not my best day. 😞,#Social,2649,106,52,18,1,20,negative
+617,Instagram,poll,28-05-2023,Sunday,06:45 AM,Not my best day. 😞,"#Fitness, #Foodie, #InstaDaily",2646,185,566,18,3,6,negative
+618,Facebook,poll,25-12-2023,Monday,08:15 AM,Could be better.,#Social,4956,455,826,16,1,8,negative
+619,Facebook,carousel,02-10-2023,Monday,06:30 AM,What do you think?,"#Social, #Family, #Friends",1641,480,197,18,3,6,neutral
+620,Facebook,image,21-11-2023,Tuesday,10:15 PM,Just another day.,"#Friends, #Community",2277,35,995,17,2,22,neutral
+621,Instagram,text,27-06-2023,Tuesday,12:30 AM,Exciting news! 🚀,"#Tech, #Beauty",3367,196,623,16,2,0,positive
+622,Instagram,video,12-12-2023,Tuesday,11:15 AM,Here's a quick update.,"#Photography, #InstaDaily, #Tech",1396,110,137,22,3,11,neutral
+623,Twitter,image,01-08-2023,Tuesday,05:45 AM,"New post, check it out!","#News, #Entertainment, #Tech",1199,154,446,23,3,5,neutral
+624,Facebook,image,06-07-2023,Thursday,08:15 PM,"New post, check it out!","#Family, #Community",1568,485,223,23,2,20,neutral
+625,Instagram,carousel,21-10-2023,Saturday,09:30 AM,Feeling down today.,"#Foodie, #InstaDaily",3918,97,577,19,2,9,negative
+626,Twitter,poll,14-05-2023,Sunday,06:45 AM,Just another day.,#News,2085,50,432,17,1,6,neutral
+627,Facebook,poll,02-05-2023,Tuesday,04:45 AM,What do you think?,"#Community, #Social, #Friends",3044,70,411,18,3,4,neutral
+628,Twitter,text,21-06-2023,Wednesday,04:15 AM,Amazing experience! 🌟,#Politics,1478,136,296,21,1,4,positive
+629,Twitter,carousel,30-10-2023,Monday,02:30 AM,Best day ever! 🎉,"#Trending, #Tech, #Entertainment",2689,32,397,16,3,2,positive
+630,Instagram,poll,14-12-2023,Thursday,12:15 AM,Exciting news! 🚀,#Travel,474,229,174,16,1,0,positive
+631,Twitter,text,28-07-2023,Friday,01:45 PM,Not my best day. 😞,"#Sports, #Trending",1509,91,74,18,2,13,negative
+632,Instagram,text,14-11-2023,Tuesday,01:30 PM,Could be better.,#Travel,3449,394,660,16,1,13,negative
+633,Facebook,image,14-12-2023,Thursday,08:30 AM,What do you think?,#Social,821,125,133,18,1,8,neutral
+634,Twitter,image,30-12-2023,Saturday,01:15 AM,Amazing experience! 🌟,#News,1411,113,337,21,1,1,positive
+635,Instagram,poll,01-12-2023,Friday,04:45 AM,"New post, check it out!","#Beauty, #Fitness, #InstaDaily",3483,208,979,23,3,4,neutral
+636,Facebook,text,15-10-2023,Sunday,11:15 PM,Here's a quick update.,"#Events, #Friends, #Social",483,389,353,22,3,23,neutral
+637,Instagram,carousel,27-03-2023,Monday,07:45 PM,Disappointed but moving on.,"#Fitness, #Beauty, #Tech",1312,158,873,27,3,19,negative
+638,Twitter,image,12-11-2023,Sunday,10:30 PM,What do you think?,"#Tech, #Trending, #News",3166,129,124,18,3,22,neutral
+639,Instagram,image,09-12-2023,Saturday,03:15 PM,"New post, check it out!",#Foodie,4260,480,60,23,1,15,neutral
+640,Instagram,text,19-02-2023,Sunday,09:45 AM,Could be better.,"#Tech, #Photography",94,238,550,16,2,9,negative
+641,Facebook,text,30-03-2023,Thursday,09:30 PM,"New post, check it out!",#Friends,2204,145,177,23,1,21,neutral
+642,Instagram,poll,07-09-2023,Thursday,09:45 PM,Exciting news! 🚀,#Fashion,1464,381,251,16,1,21,positive
+643,Instagram,video,18-11-2023,Saturday,07:45 AM,Here's a quick update.,#InstaDaily,5000,433,499,22,1,7,neutral
+644,Facebook,image,04-06-2023,Sunday,05:30 PM,"New post, check it out!",#Family,1069,215,377,23,1,17,neutral
+645,Facebook,poll,15-06-2023,Thursday,06:45 AM,Here's a quick update.,#Family,4983,126,839,22,1,6,neutral
+646,Facebook,poll,05-01-2023,Thursday,06:30 AM,Exciting news! 🚀,"#Family, #Friends, #Marketing",2401,241,486,16,3,6,positive
+647,Twitter,text,17-08-2023,Thursday,06:15 PM,"New post, check it out!","#Politics, #Tech, #News",399,110,144,23,3,18,neutral
+648,Facebook,carousel,02-04-2023,Sunday,08:00 AM,What do you think?,"#Family, #Social, #Friends",1927,323,809,18,3,8,neutral
+649,Facebook,text,27-11-2023,Monday,12:45 AM,Not my best day. 😞,"#Friends, #Social",1520,60,50,18,2,0,negative
+650,Twitter,text,26-07-2023,Wednesday,09:30 PM,Loving this new vibe! 😍,"#Tech, #Politics",1189,84,221,23,2,21,positive
+651,Facebook,carousel,29-03-2023,Wednesday,06:30 AM,Here's a quick update.,#Social,3306,282,252,22,1,6,neutral
+652,Facebook,image,03-04-2023,Monday,05:00 AM,Feeling down today.,"#Family, #Social",568,362,380,19,2,5,negative
+653,Instagram,carousel,23-09-2023,Saturday,07:15 AM,Just another day.,#Travel,1,440,102,17,1,7,neutral
+654,Facebook,carousel,22-04-2023,Saturday,11:15 AM,Feeling down today.,"#Family, #Friends",3126,490,28,19,2,11,negative
+655,Instagram,carousel,20-10-2023,Friday,11:00 AM,Just another day.,"#Fitness, #Tech, #Foodie",452,371,412,17,3,11,neutral
+656,Twitter,video,01-10-2023,Sunday,11:45 AM,Just another day.,"#Tech, #Politics, #Sports",1657,268,312,17,3,11,neutral
+657,Twitter,carousel,16-05-2023,Tuesday,09:00 AM,What do you think?,"#Trending, #News, #Memes",2962,156,174,18,3,9,neutral
+658,Facebook,carousel,11-07-2023,Tuesday,08:00 PM,Disappointed but moving on.,#Friends,1492,32,593,27,1,20,negative
+659,Facebook,image,25-05-2023,Thursday,05:30 AM,What do you think?,"#Community, #Family, #Friends",4045,500,368,18,3,5,neutral
+660,Twitter,poll,30-09-2023,Saturday,09:15 AM,Exciting news! 🚀,"#Trending, #Tech",838,224,140,16,2,9,positive
+661,Instagram,image,23-12-2023,Saturday,01:30 AM,Could be better.,"#Fashion, #InstaDaily",4268,167,518,16,2,1,negative
+662,Facebook,text,17-05-2023,Wednesday,10:00 PM,Best day ever! 🎉,"#Community, #Friends, #Family",483,174,127,16,3,22,positive
+663,Facebook,text,05-08-2023,Saturday,06:00 AM,Best day ever! 🎉,#Friends,3421,343,416,16,1,6,positive
+664,Twitter,video,11-10-2023,Wednesday,03:30 PM,What do you think?,#Sports,182,54,130,18,1,15,neutral
+665,Facebook,image,27-12-2023,Wednesday,09:00 PM,Best day ever! 🎉,#Community,366,69,417,16,1,21,positive
+666,Twitter,poll,24-07-2023,Monday,03:00 AM,Here's a quick update.,#Tech,1115,37,299,22,1,3,neutral
+667,Facebook,carousel,08-04-2023,Saturday,02:15 PM,Just another day.,#Community,27,322,892,17,1,14,neutral
+668,Instagram,poll,10-03-2023,Friday,11:15 PM,"New post, check it out!",#Fashion,243,457,159,23,1,23,neutral
+669,Twitter,video,30-09-2023,Saturday,11:45 AM,Best day ever! 🎉,"#Memes, #Sports",4087,62,422,16,2,11,positive
+670,Facebook,image,19-01-2023,Thursday,10:45 PM,What do you think?,"#Events, #Social",3860,22,130,18,2,22,neutral
+671,Twitter,text,26-09-2023,Tuesday,03:45 PM,Here's a quick update.,"#Entertainment, #Tech",1661,118,67,22,2,15,neutral
+672,Instagram,text,05-09-2023,Tuesday,12:30 PM,Feeling down today.,"#Photography, #Travel",1225,350,983,19,2,12,negative
+673,Instagram,carousel,12-04-2023,Wednesday,08:45 AM,Not my best day. 😞,"#Beauty, #Tech",977,90,64,18,2,8,negative
+674,Instagram,video,13-12-2023,Wednesday,01:45 PM,"New post, check it out!","#Beauty, #InstaDaily",1298,478,992,23,2,13,neutral
+675,Facebook,text,18-12-2023,Monday,05:00 AM,Best day ever! 🎉,"#Marketing, #Family, #Events",36,268,517,16,3,5,positive
+676,Twitter,poll,05-04-2023,Wednesday,01:30 AM,Exciting news! 🚀,#Entertainment,2827,156,450,16,1,1,positive
+677,Twitter,video,19-08-2023,Saturday,04:45 AM,Just another day.,#Tech,3412,83,426,17,1,4,neutral
+678,Facebook,poll,19-05-2023,Friday,02:45 AM,"New post, check it out!","#Family, #Events, #Community",3783,136,944,23,3,2,neutral
+679,Twitter,carousel,17-04-2023,Monday,11:00 PM,Just another day.,"#Memes, #Entertainment, #Trending",398,82,137,17,3,23,neutral
+680,Twitter,video,17-02-2023,Friday,08:45 AM,What do you think?,"#Sports, #News",913,50,220,18,2,8,neutral
+681,Facebook,video,27-03-2023,Monday,11:30 AM,Exciting news! 🚀,"#Friends, #Marketing",5000,182,370,16,2,11,positive
+682,Facebook,video,29-06-2023,Thursday,01:30 PM,Not my best day. 😞,"#Social, #Family, #Marketing",2962,500,644,18,3,13,negative
+683,Twitter,carousel,07-03-2023,Tuesday,10:15 AM,What do you think?,"#Sports, #Memes",33,174,262,18,2,10,neutral
+684,Instagram,text,10-05-2023,Wednesday,04:45 AM,Just another day.,"#Beauty, #Travel",492,381,922,17,2,4,neutral
+685,Instagram,text,20-05-2023,Saturday,07:00 PM,Best day ever! 🎉,"#Fashion, #Tech, #Travel",363,290,529,16,3,19,positive
+686,Twitter,carousel,09-03-2023,Thursday,06:00 PM,Here's a quick update.,"#Entertainment, #Memes",370,66,446,22,2,18,neutral
+687,Instagram,video,19-06-2023,Monday,11:15 AM,Not my best day. 😞,"#Photography, #Beauty",169,477,391,18,2,11,negative
+688,Twitter,text,30-08-2023,Wednesday,09:15 AM,"New post, check it out!",#Politics,1107,112,107,23,1,9,neutral
+689,Facebook,video,18-01-2023,Wednesday,07:00 AM,Exciting news! 🚀,"#Events, #Family",4871,500,888,16,2,7,positive
+690,Facebook,carousel,09-04-2023,Sunday,07:30 AM,Just another day.,"#Community, #Social, #Marketing",5000,79,320,17,3,7,neutral
+691,Twitter,video,02-03-2023,Thursday,06:30 AM,Here's a quick update.,"#News, #Entertainment",2463,148,455,22,2,6,neutral
+692,Instagram,poll,29-08-2023,Tuesday,09:15 AM,Just another day.,#Travel,2614,265,470,17,1,9,neutral
+693,Instagram,image,15-09-2023,Friday,05:15 AM,Best day ever! 🎉,"#Fitness, #Photography, #Foodie",3396,448,419,16,3,5,positive
+694,Twitter,poll,25-11-2023,Saturday,12:00 PM,Disappointed but moving on.,#Sports,2628,80,387,27,1,12,negative
+695,Instagram,poll,06-07-2023,Thursday,11:45 AM,Exciting news! 🚀,"#Fashion, #Beauty, #Tech",2711,113,767,16,3,11,positive
+696,Twitter,text,10-02-2023,Friday,01:45 PM,What do you think?,"#Sports, #Tech, #Trending",686,168,57,18,3,13,neutral
+697,Twitter,carousel,24-09-2023,Sunday,09:30 PM,Here's a quick update.,"#Politics, #Memes",519,68,382,22,2,21,neutral
+698,Facebook,text,20-04-2023,Thursday,12:15 AM,Best day ever! 🎉,"#Marketing, #Family, #Social",1020,204,754,16,3,0,positive
+699,Twitter,text,22-04-2023,Saturday,08:45 AM,Not my best day. 😞,#Politics,1245,125,285,18,1,8,negative
+700,Instagram,video,20-10-2023,Friday,07:15 AM,"New post, check it out!","#Fitness, #Foodie, #Travel",1959,57,522,23,3,7,neutral
+701,Twitter,poll,24-06-2023,Saturday,03:30 PM,Best day ever! 🎉,#Memes,3493,96,305,16,1,15,positive
+702,Facebook,video,25-11-2023,Saturday,04:00 AM,Here's a quick update.,#Marketing,1336,423,191,22,1,4,neutral
+703,Instagram,poll,03-06-2023,Saturday,04:45 AM,Could be better.,"#Fitness, #Foodie",3027,500,67,16,2,4,negative
+704,Facebook,text,20-01-2023,Friday,11:45 AM,Loving this new vibe! 😍,"#Community, #Events, #Social",1906,111,283,23,3,11,positive
+705,Instagram,text,18-07-2023,Tuesday,02:15 PM,Amazing experience! 🌟,#Photography,1526,295,272,21,1,14,positive
+706,Twitter,text,13-01-2023,Friday,04:00 AM,Here's a quick update.,"#Memes, #Entertainment, #News",703,187,123,22,3,4,neutral
+707,Twitter,video,10-08-2023,Thursday,12:00 PM,Not my best day. 😞,"#News, #Memes",283,95,74,18,2,12,negative
+708,Instagram,carousel,19-08-2023,Saturday,08:00 AM,Not my best day. 😞,"#Beauty, #Tech, #InstaDaily",2370,132,275,18,3,8,negative
+709,Instagram,text,29-09-2023,Friday,06:45 PM,"New post, check it out!","#Foodie, #Tech, #Beauty",4016,156,900,23,3,18,neutral
+710,Twitter,video,21-05-2023,Sunday,03:45 AM,Not my best day. 😞,"#Politics, #Memes, #Trending",4298,278,316,18,3,3,negative
+711,Instagram,carousel,14-02-2023,Tuesday,08:15 AM,What do you think?,"#Beauty, #Fashion, #Photography",2109,442,778,18,3,8,neutral
+712,Instagram,carousel,08-08-2023,Tuesday,01:00 AM,Exciting news! 🚀,#Tech,901,500,445,16,1,1,positive
+713,Facebook,video,10-08-2023,Thursday,12:00 PM,What do you think?,"#Family, #Friends",1064,287,310,18,2,12,neutral
+714,Facebook,poll,05-12-2023,Tuesday,11:15 PM,Could be better.,"#Community, #Events, #Social",2863,74,773,16,3,23,negative
+715,Twitter,text,26-07-2023,Wednesday,01:00 AM,Best day ever! 🎉,"#Entertainment, #Trending, #Tech",1281,40,371,16,3,1,positive
+716,Facebook,carousel,26-02-2023,Sunday,11:00 PM,Disappointed but moving on.,"#Marketing, #Community, #Events",4945,241,158,27,3,23,negative
+717,Twitter,text,04-01-2023,Wednesday,04:45 PM,"New post, check it out!","#Sports, #Memes, #News",1134,82,252,23,3,16,neutral
+718,Facebook,carousel,14-09-2023,Thursday,03:30 PM,Exciting news! 🚀,"#Friends, #Community, #Events",3538,279,700,16,3,15,positive
+719,Instagram,image,02-07-2023,Sunday,12:00 AM,Loving this new vibe! 😍,#Tech,999,16,96,23,1,0,positive
+720,Twitter,video,13-08-2023,Sunday,08:15 AM,Here's a quick update.,#Memes,3448,137,66,22,1,8,neutral
+721,Twitter,video,29-10-2023,Sunday,08:30 PM,Here's a quick update.,"#News, #Sports",1123,136,297,22,2,20,neutral
+722,Instagram,image,30-03-2023,Thursday,08:15 PM,Exciting news! 🚀,"#Travel, #Fitness",1868,495,943,16,2,20,positive
+723,Facebook,image,07-02-2023,Tuesday,06:00 AM,Could be better.,"#Marketing, #Friends, #Events",3495,147,436,16,3,6,negative
+724,Twitter,poll,18-02-2023,Saturday,03:45 AM,Exciting news! 🚀,"#Memes, #Sports, #News",537,223,448,16,3,3,positive
+725,Instagram,carousel,28-02-2023,Tuesday,10:45 AM,Exciting news! 🚀,#Beauty,1838,151,730,16,1,10,positive
+726,Facebook,carousel,21-05-2023,Sunday,05:45 AM,Amazing experience! 🌟,"#Family, #Community, #Marketing",4999,471,561,21,3,5,positive
+727,Twitter,carousel,30-04-2023,Sunday,01:15 PM,Not my best day. 😞,#Trending,3308,10,244,18,1,13,negative
+728,Twitter,text,17-11-2023,Friday,09:30 PM,Best day ever! 🎉,#Tech,747,33,259,16,1,21,positive
+729,Instagram,poll,28-09-2023,Thursday,11:15 PM,Could be better.,"#Tech, #Beauty, #Travel",1139,246,920,16,3,23,negative
+730,Facebook,image,05-11-2023,Sunday,05:30 AM,Loving this new vibe! 😍,"#Community, #Events, #Friends",4266,221,70,23,3,5,positive
+731,Instagram,video,21-11-2023,Tuesday,08:00 PM,Feeling down today.,"#Beauty, #Foodie, #InstaDaily",5000,78,536,19,3,20,negative
+732,Instagram,text,04-07-2023,Tuesday,11:00 PM,What do you think?,#Foodie,3342,68,993,18,1,23,neutral
+733,Facebook,video,01-05-2023,Monday,01:15 AM,What do you think?,#Family,5000,191,106,18,1,1,neutral
+734,Twitter,video,02-03-2023,Thursday,05:45 PM,Not my best day. 😞,"#Sports, #Politics, #Memes",1345,56,391,18,3,17,negative
+735,Instagram,text,08-04-2023,Saturday,02:30 PM,Could be better.,"#Fashion, #Tech",36,143,186,16,2,14,negative
+736,Twitter,text,12-09-2023,Tuesday,09:00 AM,Here's a quick update.,"#Entertainment, #Sports, #Tech",2093,112,433,22,3,9,neutral
+737,Instagram,image,31-08-2023,Thursday,01:00 AM,Just another day.,"#Fitness, #InstaDaily, #Tech",1236,113,664,17,3,1,neutral
+738,Twitter,image,20-09-2023,Wednesday,10:00 PM,Disappointed but moving on.,"#Politics, #Trending",1085,141,292,27,2,22,negative
+739,Facebook,text,08-03-2023,Wednesday,03:45 PM,Not my best day. 😞,"#Events, #Community, #Family",1942,239,874,18,3,15,negative
+740,Twitter,poll,11-11-2023,Saturday,04:15 AM,Amazing experience! 🌟,"#Trending, #Politics",2664,138,443,21,2,4,positive
+741,Facebook,image,12-06-2023,Monday,04:45 PM,Disappointed but moving on.,#Family,4188,400,44,27,1,16,negative
+742,Facebook,carousel,22-12-2023,Friday,12:00 AM,Feeling down today.,"#Friends, #Social",2057,459,440,19,2,0,negative
+743,Facebook,text,25-03-2023,Saturday,11:00 AM,Amazing experience! 🌟,"#Marketing, #Community, #Family",3418,55,86,21,3,11,positive
+744,Twitter,image,13-06-2023,Tuesday,01:15 AM,Disappointed but moving on.,#Politics,185,34,316,27,1,1,negative
+745,Instagram,poll,04-09-2023,Monday,10:00 AM,"New post, check it out!","#Foodie, #Photography, #Fitness",3451,87,54,23,3,10,neutral
+746,Twitter,video,01-02-2023,Wednesday,03:00 PM,Not my best day. 😞,#Memes,574,88,369,18,1,15,negative
+747,Instagram,video,22-08-2023,Tuesday,08:30 PM,Could be better.,"#Photography, #Beauty, #Foodie",2754,413,745,16,3,20,negative
+748,Facebook,poll,01-04-2023,Saturday,11:30 PM,Could be better.,"#Community, #Social",3468,362,710,16,2,23,negative
+749,Facebook,carousel,19-07-2023,Wednesday,06:45 PM,Just another day.,#Social,1071,68,397,17,1,18,neutral
+750,Facebook,image,01-06-2023,Thursday,05:45 PM,Just another day.,"#Events, #Marketing",3694,457,490,17,2,17,neutral
+751,Instagram,image,04-03-2023,Saturday,12:45 PM,Disappointed but moving on.,"#Photography, #Fitness",5000,177,14,27,2,12,negative
+752,Facebook,poll,13-09-2023,Wednesday,03:30 AM,Feeling down today.,#Events,4371,122,350,19,1,3,negative
+753,Twitter,poll,18-01-2023,Wednesday,04:45 AM,Could be better.,"#Sports, #Entertainment, #Trending",2283,112,439,16,3,4,negative
+754,Twitter,image,29-06-2023,Thursday,09:45 AM,What do you think?,"#Sports, #Tech",1406,47,478,18,2,9,neutral
+755,Instagram,poll,24-03-2023,Friday,08:30 AM,Here's a quick update.,#Travel,1101,89,239,22,1,8,neutral
+756,Twitter,poll,03-01-2023,Tuesday,11:30 PM,Feeling down today.,"#Trending, #Politics",323,96,243,19,2,23,negative
+757,Instagram,poll,10-01-2023,Tuesday,12:00 AM,Here's a quick update.,#Beauty,2502,369,743,22,1,0,neutral
+758,Instagram,poll,11-07-2023,Tuesday,11:30 PM,What do you think?,"#Foodie, #Tech, #Fitness",3133,500,573,18,3,23,neutral
+759,Instagram,image,16-10-2023,Monday,04:00 PM,Disappointed but moving on.,"#Fitness, #Tech",3857,154,343,27,2,16,negative
+760,Twitter,video,26-02-2023,Sunday,07:00 PM,Could be better.,#News,3123,247,412,16,1,19,negative
+761,Instagram,text,09-11-2023,Thursday,07:45 AM,Amazing experience! 🌟,"#InstaDaily, #Fashion",1241,228,955,21,2,7,positive
+762,Twitter,video,16-03-2023,Thursday,07:45 PM,Not my best day. 😞,"#Entertainment, #Sports",2749,238,411,18,2,19,negative
+763,Instagram,text,29-05-2023,Monday,01:00 AM,Not my best day. 😞,"#Foodie, #Tech, #Fashion",1193,198,313,18,3,1,negative
+764,Twitter,poll,01-07-2023,Saturday,07:30 PM,Not my best day. 😞,#Tech,1258,106,242,18,1,19,negative
+765,Twitter,poll,17-11-2023,Friday,05:30 PM,Could be better.,"#News, #Trending, #Tech",59,151,223,16,3,17,negative
+766,Facebook,carousel,01-11-2023,Wednesday,10:15 PM,"New post, check it out!",#Community,3119,368,161,23,1,22,neutral
+767,Instagram,video,29-09-2023,Friday,04:00 AM,Here's a quick update.,#Foodie,4655,500,106,22,1,4,neutral
+768,Facebook,text,07-08-2023,Monday,12:30 PM,Exciting news! 🚀,"#Events, #Marketing, #Family",2335,313,777,16,3,12,positive
+769,Twitter,image,28-07-2023,Friday,06:15 PM,"New post, check it out!","#Tech, #Entertainment, #Trending",3033,195,474,23,3,18,neutral
+770,Twitter,video,04-01-2023,Wednesday,02:15 AM,Exciting news! 🚀,#Sports,1320,127,44,16,1,2,positive
+771,Twitter,text,23-08-2023,Wednesday,06:15 PM,Loving this new vibe! 😍,"#Memes, #Politics",304,98,174,23,2,18,positive
+772,Facebook,video,26-07-2023,Wednesday,07:45 AM,Feeling down today.,#Family,2840,232,350,19,1,7,negative
+773,Facebook,text,31-05-2023,Wednesday,12:15 AM,Loving this new vibe! 😍,"#Marketing, #Social, #Family",2432,411,509,23,3,0,positive
+774,Facebook,carousel,06-11-2023,Monday,02:00 PM,Here's a quick update.,#Events,3713,332,162,22,1,14,neutral
+775,Twitter,carousel,01-06-2023,Thursday,11:30 PM,"New post, check it out!","#Politics, #Sports",177,193,184,23,2,23,neutral
+776,Instagram,poll,26-12-2023,Tuesday,06:45 PM,Loving this new vibe! 😍,"#Fashion, #Fitness",3452,379,696,23,2,18,positive
+777,Twitter,text,28-04-2023,Friday,10:15 AM,"New post, check it out!","#Politics, #News",800,79,101,23,2,10,neutral
+778,Twitter,video,26-10-2023,Thursday,05:30 AM,Amazing experience! 🌟,#News,1586,17,175,21,1,5,positive
+779,Instagram,image,30-03-2023,Thursday,08:00 PM,Loving this new vibe! 😍,"#Tech, #Foodie, #Photography",478,108,304,23,3,20,positive
+780,Twitter,image,31-01-2023,Tuesday,10:30 AM,"New post, check it out!",#Tech,1517,17,139,23,1,10,neutral
+781,Facebook,text,21-01-2023,Saturday,04:30 AM,"New post, check it out!","#Family, #Social, #Marketing",742,332,342,23,3,4,neutral
+782,Facebook,video,01-08-2023,Tuesday,09:45 PM,Feeling down today.,"#Marketing, #Events, #Community",5000,445,971,19,3,21,negative
+783,Instagram,image,19-06-2023,Monday,02:45 PM,Loving this new vibe! 😍,"#Tech, #Foodie, #InstaDaily",4246,315,549,23,3,14,positive
+784,Twitter,carousel,24-08-2023,Thursday,04:45 PM,Not my best day. 😞,"#Memes, #Entertainment",960,27,327,18,2,16,negative
+785,Instagram,carousel,30-01-2023,Monday,01:30 PM,Just another day.,"#Tech, #InstaDaily",496,500,151,17,2,13,neutral
+786,Facebook,poll,07-09-2023,Thursday,06:30 AM,Just another day.,#Community,47,136,682,17,1,6,neutral
+787,Facebook,poll,11-12-2023,Monday,10:00 AM,"New post, check it out!","#Marketing, #Events",1996,215,438,23,2,10,neutral
+788,Instagram,text,06-04-2023,Thursday,09:30 PM,Loving this new vibe! 😍,#Photography,925,352,502,23,1,21,positive
+789,Facebook,video,31-08-2023,Thursday,08:15 PM,Not my best day. 😞,"#Social, #Family, #Marketing",2917,454,783,18,3,20,negative
+790,Twitter,poll,11-12-2023,Monday,09:15 PM,Not my best day. 😞,#Memes,2477,81,184,18,1,21,negative
+791,Facebook,text,07-02-2023,Tuesday,11:30 AM,Not my best day. 😞,#Family,1016,326,5,18,1,11,negative
+792,Instagram,image,26-01-2023,Thursday,11:00 AM,Not my best day. 😞,"#Photography, #Fitness, #Travel",872,32,492,18,3,11,negative
+793,Instagram,carousel,06-03-2023,Monday,08:00 AM,Best day ever! 🎉,#Beauty,948,230,311,16,1,8,positive
+794,Facebook,text,11-08-2023,Friday,09:45 PM,Disappointed but moving on.,"#Friends, #Social",448,165,440,27,2,21,negative
+795,Instagram,video,05-10-2023,Thursday,05:30 AM,Could be better.,"#Tech, #Travel",3586,143,880,16,2,5,negative
+796,Facebook,image,06-05-2023,Saturday,06:30 PM,Disappointed but moving on.,"#Community, #Family",5000,500,594,27,2,18,negative
+797,Instagram,video,18-03-2023,Saturday,12:00 AM,Not my best day. 😞,"#Fitness, #Travel",5000,290,533,18,2,0,negative
+798,Instagram,carousel,24-06-2023,Saturday,02:30 AM,Here's a quick update.,"#Fashion, #InstaDaily",5000,109,29,22,2,2,neutral
+799,Instagram,text,22-07-2023,Saturday,06:45 AM,What do you think?,"#InstaDaily, #Beauty",312,55,759,18,2,6,neutral
+800,Twitter,carousel,09-11-2023,Thursday,12:00 PM,Loving this new vibe! 😍,"#Politics, #Entertainment, #Trending",3106,74,322,23,3,12,positive
+801,Facebook,carousel,02-01-2023,Monday,06:00 AM,Exciting news! 🚀,"#Friends, #Family, #Community",1747,181,175,16,3,6,positive
+802,Instagram,poll,27-10-2023,Friday,11:15 AM,Best day ever! 🎉,#Fashion,724,264,205,16,1,11,positive
+803,Instagram,poll,16-01-2023,Monday,01:00 PM,Loving this new vibe! 😍,#Foodie,1208,349,16,23,1,13,positive
+804,Instagram,image,24-08-2023,Thursday,07:15 PM,Feeling down today.,"#InstaDaily, #Fitness, #Beauty",3865,234,3,19,3,19,negative
+805,Facebook,text,04-07-2023,Tuesday,09:30 AM,Could be better.,"#Marketing, #Family",1990,275,392,16,2,9,negative
+806,Instagram,poll,09-07-2023,Sunday,12:30 AM,Exciting news! 🚀,"#Beauty, #InstaDaily, #Fashion",643,87,965,16,3,0,positive
+807,Facebook,image,08-09-2023,Friday,08:45 AM,Could be better.,#Events,3148,217,587,16,1,8,negative
+808,Instagram,video,26-04-2023,Wednesday,02:15 AM,Here's a quick update.,"#Travel, #Tech",2090,419,714,22,2,2,neutral
+809,Facebook,image,19-04-2023,Wednesday,01:45 AM,Here's a quick update.,"#Community, #Marketing, #Events",3564,455,982,22,3,1,neutral
+810,Instagram,poll,14-02-2023,Tuesday,04:30 PM,Loving this new vibe! 😍,#Fitness,2269,186,978,23,1,16,positive
+811,Facebook,video,19-07-2023,Wednesday,09:45 AM,What do you think?,"#Marketing, #Events",5000,372,542,18,2,9,neutral
+812,Instagram,video,22-07-2023,Saturday,10:45 AM,Feeling down today.,"#Travel, #Tech, #Fashion",5000,215,951,19,3,10,negative
+813,Twitter,video,06-10-2023,Friday,05:15 PM,Amazing experience! 🌟,"#Entertainment, #Sports",1423,138,284,21,2,17,positive
+814,Twitter,image,30-10-2023,Monday,05:15 PM,Could be better.,#News,1138,27,108,16,1,17,negative
+815,Twitter,image,15-08-2023,Tuesday,02:00 PM,Exciting news! 🚀,"#Sports, #Politics",2690,219,124,16,2,14,positive
+816,Twitter,poll,27-10-2023,Friday,08:15 AM,Loving this new vibe! 😍,"#Tech, #Memes, #Trending",1835,90,213,23,3,8,positive
+817,Instagram,video,14-04-2023,Friday,02:45 AM,Best day ever! 🎉,"#Fashion, #Foodie",4356,296,432,16,2,2,positive
+818,Twitter,carousel,26-06-2023,Monday,07:15 AM,Loving this new vibe! 😍,"#Politics, #Trending, #Sports",331,228,390,23,3,7,positive
+819,Instagram,carousel,05-02-2023,Sunday,05:00 PM,Loving this new vibe! 😍,#Beauty,867,442,922,23,1,17,positive
+820,Facebook,image,31-12-2023,Sunday,08:45 PM,Amazing experience! 🌟,"#Friends, #Events",5000,114,269,21,2,20,positive
+821,Twitter,carousel,01-11-2023,Wednesday,01:30 PM,Amazing experience! 🌟,#Trending,1618,55,278,21,1,13,positive
+822,Twitter,poll,19-12-2023,Tuesday,03:30 AM,Disappointed but moving on.,"#Memes, #Entertainment",338,59,74,27,2,3,negative
+823,Instagram,carousel,10-02-2023,Friday,06:30 AM,Best day ever! 🎉,"#Beauty, #Fashion, #Fitness",240,170,85,16,3,6,positive
+824,Instagram,image,13-08-2023,Sunday,04:30 AM,Could be better.,"#Fashion, #Beauty",2859,500,27,16,2,4,negative
+825,Facebook,carousel,13-04-2023,Thursday,09:15 AM,Loving this new vibe! 😍,"#Family, #Events",4781,346,471,23,2,9,positive
+826,Twitter,video,05-04-2023,Wednesday,08:30 PM,Could be better.,"#Memes, #Trending",2977,275,134,16,2,20,negative
+827,Twitter,text,06-03-2023,Monday,02:45 AM,Not my best day. 😞,"#Sports, #News",1285,92,238,18,2,2,negative
+828,Twitter,video,16-06-2023,Friday,05:45 PM,Best day ever! 🎉,"#Sports, #Trending",2557,147,304,16,2,17,positive
+829,Twitter,text,23-05-2023,Tuesday,02:00 AM,Could be better.,"#Tech, #News, #Entertainment",1586,51,199,16,3,2,negative
+830,Twitter,carousel,16-07-2023,Sunday,06:45 PM,Loving this new vibe! 😍,"#News, #Memes, #Sports",0,76,34,23,3,18,positive
+831,Instagram,carousel,24-12-2023,Sunday,12:15 AM,Just another day.,"#Tech, #Travel",3546,500,974,17,2,0,neutral
+832,Instagram,video,04-11-2023,Saturday,02:00 AM,Best day ever! 🎉,"#InstaDaily, #Tech, #Foodie",4851,209,621,16,3,2,positive
+833,Facebook,text,31-01-2023,Tuesday,04:15 AM,Amazing experience! 🌟,#Marketing,118,278,517,21,1,4,positive
+834,Twitter,poll,07-07-2023,Friday,11:30 AM,Amazing experience! 🌟,"#Trending, #Tech, #Sports",503,206,300,21,3,11,positive
+835,Facebook,image,06-12-2023,Wednesday,01:45 AM,"New post, check it out!","#Social, #Marketing, #Events",4402,297,337,23,3,1,neutral
+836,Instagram,carousel,01-08-2023,Tuesday,12:00 AM,Loving this new vibe! 😍,"#InstaDaily, #Travel",3028,268,15,23,2,0,positive
+837,Facebook,carousel,07-01-2023,Saturday,10:30 AM,Here's a quick update.,"#Community, #Family, #Social",2718,418,554,22,3,10,neutral
+838,Twitter,video,16-04-2023,Sunday,09:15 AM,Here's a quick update.,#Tech,1165,184,52,22,1,9,neutral
+839,Twitter,video,15-05-2023,Monday,05:45 AM,Disappointed but moving on.,"#News, #Memes",2303,135,247,27,2,5,negative
+840,Twitter,poll,27-09-2023,Wednesday,09:00 AM,Here's a quick update.,"#Entertainment, #Politics",895,57,357,22,2,9,neutral
+841,Instagram,carousel,21-07-2023,Friday,03:15 PM,Loving this new vibe! 😍,"#Photography, #InstaDaily, #Fashion",1736,500,965,23,3,15,positive
+842,Instagram,text,25-11-2023,Saturday,08:15 PM,Feeling down today.,"#Photography, #Fashion, #Tech",3795,31,754,19,3,20,negative
+843,Facebook,text,18-11-2023,Saturday,06:45 AM,Best day ever! 🎉,"#Social, #Family, #Community",86,445,954,16,3,6,positive
+844,Twitter,carousel,16-11-2023,Thursday,06:45 PM,Feeling down today.,"#Sports, #Memes",573,94,160,19,2,18,negative
+845,Twitter,video,01-12-2023,Friday,08:45 PM,Could be better.,"#Politics, #Tech, #Trending",1869,223,269,16,3,20,negative
+846,Twitter,poll,30-06-2023,Friday,05:45 PM,Exciting news! 🚀,"#Politics, #Trending",1369,207,450,16,2,17,positive
+847,Facebook,poll,05-07-2023,Wednesday,08:45 AM,Exciting news! 🚀,"#Community, #Social",2158,169,259,16,2,8,positive
+848,Facebook,poll,20-09-2023,Wednesday,01:30 PM,Could be better.,"#Community, #Family, #Friends",1327,31,458,16,3,13,negative
+849,Instagram,poll,17-06-2023,Saturday,07:15 AM,Amazing experience! 🌟,#Fitness,2395,334,913,21,1,7,positive
+850,Facebook,carousel,12-03-2023,Sunday,06:30 AM,Just another day.,"#Community, #Family, #Events",5000,500,532,17,3,6,neutral
+851,Facebook,text,25-05-2023,Thursday,04:00 AM,"New post, check it out!","#Friends, #Marketing, #Community",639,299,602,23,3,4,neutral
+852,Facebook,carousel,20-11-2023,Monday,08:15 PM,Disappointed but moving on.,"#Friends, #Events",3830,132,144,27,2,20,negative
+853,Instagram,text,03-01-2023,Tuesday,08:45 PM,"New post, check it out!","#Fitness, #Photography, #Tech",2816,289,104,23,3,20,neutral
+854,Facebook,video,16-05-2023,Tuesday,08:00 PM,Here's a quick update.,"#Social, #Marketing, #Events",1004,500,304,22,3,20,neutral
+855,Twitter,image,09-05-2023,Tuesday,04:00 PM,Loving this new vibe! 😍,#Memes,1635,184,500,23,1,16,positive
+856,Instagram,carousel,17-05-2023,Wednesday,12:00 AM,Feeling down today.,"#Travel, #Fashion",1533,45,532,19,2,0,negative
+857,Facebook,image,23-12-2023,Saturday,03:30 AM,Amazing experience! 🌟,"#Marketing, #Friends, #Family",5000,500,738,21,3,3,positive
+858,Twitter,carousel,17-09-2023,Sunday,01:30 PM,Best day ever! 🎉,"#Memes, #News",744,28,430,16,2,13,positive
+859,Twitter,poll,14-02-2023,Tuesday,09:15 PM,Amazing experience! 🌟,"#Entertainment, #News, #Memes",163,207,492,21,3,21,positive
+860,Facebook,poll,19-04-2023,Wednesday,05:45 AM,Exciting news! 🚀,"#Marketing, #Family",3026,475,101,16,2,5,positive
+861,Twitter,text,04-01-2023,Wednesday,05:00 PM,Here's a quick update.,"#Sports, #Entertainment",312,53,36,22,2,17,neutral
+862,Instagram,image,28-07-2023,Friday,03:00 PM,Disappointed but moving on.,#Beauty,2063,365,279,27,1,15,negative
+863,Facebook,video,20-04-2023,Thursday,02:30 PM,Loving this new vibe! 😍,#Community,4149,500,198,23,1,14,positive
+864,Twitter,image,08-01-2023,Sunday,01:15 PM,"New post, check it out!","#Politics, #Trending",3202,67,197,23,2,13,neutral
+865,Twitter,carousel,18-02-2023,Saturday,02:45 AM,Exciting news! 🚀,"#Entertainment, #Memes, #Politics",3235,143,120,16,3,2,positive
+866,Facebook,poll,20-01-2023,Friday,03:45 AM,Best day ever! 🎉,"#Friends, #Marketing, #Community",4798,168,146,16,3,3,positive
+867,Facebook,video,20-10-2023,Friday,03:45 AM,Here's a quick update.,"#Social, #Family, #Marketing",2558,118,852,22,3,3,neutral
+868,Instagram,poll,16-11-2023,Thursday,03:00 PM,Not my best day. 😞,#Foodie,554,61,827,18,1,15,negative
+869,Instagram,carousel,23-04-2023,Sunday,06:15 PM,Here's a quick update.,#Fitness,5000,43,872,22,1,18,neutral
+870,Twitter,poll,23-10-2023,Monday,05:15 AM,Feeling down today.,#Sports,1585,180,291,19,1,5,negative
+871,Twitter,text,11-07-2023,Tuesday,08:15 AM,Disappointed but moving on.,#Tech,993,139,417,27,1,8,negative
+872,Facebook,text,10-09-2023,Sunday,07:15 PM,Here's a quick update.,#Events,2060,69,167,22,1,19,neutral
+873,Twitter,video,29-09-2023,Friday,05:45 PM,Disappointed but moving on.,#Memes,102,58,364,27,1,17,negative
+874,Instagram,poll,28-03-2023,Tuesday,08:15 AM,Best day ever! 🎉,"#Travel, #Foodie",1550,151,707,16,2,8,positive
+875,Facebook,text,06-06-2023,Tuesday,06:15 AM,"New post, check it out!","#Family, #Community, #Friends",1551,334,248,23,3,6,neutral
+876,Instagram,image,02-08-2023,Wednesday,08:30 AM,"New post, check it out!","#Foodie, #Fashion",2065,416,196,23,2,8,neutral
+877,Facebook,image,04-01-2023,Wednesday,07:00 AM,What do you think?,"#Social, #Friends",4870,242,883,18,2,7,neutral
+878,Instagram,text,18-08-2023,Friday,08:15 PM,Amazing experience! 🌟,#Fashion,2152,421,732,21,1,20,positive
+879,Instagram,poll,06-08-2023,Sunday,12:00 PM,Feeling down today.,#Foodie,5000,354,728,19,1,12,negative
+880,Instagram,carousel,20-01-2023,Friday,11:45 PM,Feeling down today.,"#Tech, #Travel",4805,168,25,19,2,23,negative
+881,Twitter,image,22-12-2023,Friday,03:00 AM,Disappointed but moving on.,#Politics,82,68,213,27,1,3,negative
+882,Facebook,poll,18-04-2023,Tuesday,08:00 AM,"New post, check it out!",#Family,2147,242,462,23,1,8,neutral
+883,Facebook,carousel,10-10-2023,Tuesday,08:15 PM,Not my best day. 😞,"#Family, #Events",4766,149,410,18,2,20,negative
+884,Instagram,text,31-10-2023,Tuesday,06:00 PM,Loving this new vibe! 😍,"#Fitness, #Tech",712,34,601,23,2,18,positive
+885,Twitter,text,20-04-2023,Thursday,02:45 AM,Not my best day. 😞,#News,1059,71,132,18,1,2,negative
+886,Twitter,carousel,12-02-2023,Sunday,01:15 AM,Exciting news! 🚀,"#Politics, #Sports, #Entertainment",756,37,303,16,3,1,positive
+887,Instagram,poll,08-08-2023,Tuesday,09:45 PM,Best day ever! 🎉,"#Fitness, #Travel",3030,377,922,16,2,21,positive
+888,Twitter,text,06-07-2023,Thursday,08:00 AM,Amazing experience! 🌟,"#Tech, #Memes, #Entertainment",1457,112,422,21,3,8,positive
+889,Instagram,poll,12-05-2023,Friday,03:45 PM,Feeling down today.,"#Travel, #Fitness",3334,482,666,19,2,15,negative
+890,Instagram,image,11-03-2023,Saturday,10:45 PM,Here's a quick update.,"#Fashion, #Tech",5000,179,467,22,2,22,neutral
+891,Facebook,text,02-06-2023,Friday,10:30 PM,"New post, check it out!","#Friends, #Marketing, #Family",3479,34,77,23,3,22,neutral
+892,Instagram,carousel,23-03-2023,Thursday,11:30 PM,Amazing experience! 🌟,"#Fashion, #InstaDaily, #Travel",3568,260,685,21,3,23,positive
+893,Instagram,poll,22-07-2023,Saturday,02:30 PM,Here's a quick update.,#Fitness,499,366,776,22,1,14,neutral
+894,Twitter,image,12-02-2023,Sunday,10:00 AM,Best day ever! 🎉,#Trending,660,203,258,16,1,10,positive
+895,Twitter,text,05-05-2023,Friday,06:45 AM,Could be better.,#Sports,965,56,205,16,1,6,negative
+896,Facebook,poll,08-12-2023,Friday,08:45 AM,Amazing experience! 🌟,#Friends,3384,378,507,21,1,8,positive
+897,Instagram,text,16-02-2023,Thursday,04:45 PM,Just another day.,"#Beauty, #Travel",1306,100,676,17,2,16,neutral
+898,Instagram,image,28-05-2023,Sunday,11:45 PM,Just another day.,"#Fashion, #Photography, #Beauty",4088,233,502,17,3,23,neutral
+899,Facebook,image,17-12-2023,Sunday,02:30 PM,"New post, check it out!","#Friends, #Family, #Social",3237,306,897,23,3,14,neutral
+900,Instagram,carousel,13-09-2023,Wednesday,03:45 PM,Disappointed but moving on.,#Beauty,2703,168,750,27,1,15,negative
+901,Twitter,carousel,28-06-2023,Wednesday,05:15 AM,Not my best day. 😞,#Sports,1216,129,495,18,1,5,negative
+902,Twitter,text,08-11-2023,Wednesday,01:45 PM,Loving this new vibe! 😍,"#Sports, #News",98,137,430,23,2,13,positive
+903,Facebook,carousel,18-05-2023,Thursday,07:30 AM,"New post, check it out!","#Family, #Social, #Events",2343,408,55,23,3,7,neutral
+904,Twitter,image,21-07-2023,Friday,10:45 PM,"New post, check it out!","#Memes, #Tech",2680,119,157,23,2,22,neutral
+905,Facebook,text,30-09-2023,Saturday,10:45 AM,What do you think?,"#Community, #Friends, #Marketing",526,245,906,18,3,10,neutral
+906,Twitter,carousel,20-07-2023,Thursday,10:15 AM,Exciting news! 🚀,"#Entertainment, #Memes",775,143,264,16,2,10,positive
+907,Facebook,carousel,07-07-2023,Friday,07:00 AM,Exciting news! 🚀,"#Friends, #Events",1029,447,621,16,2,7,positive
+908,Instagram,video,03-10-2023,Tuesday,01:30 AM,Just another day.,"#InstaDaily, #Tech",322,90,590,17,2,1,neutral
+909,Facebook,carousel,09-10-2023,Monday,07:15 PM,Disappointed but moving on.,"#Social, #Community",1610,75,609,27,2,19,negative
+910,Twitter,poll,09-02-2023,Thursday,09:45 PM,Just another day.,#Politics,1665,130,335,17,1,21,neutral
+911,Twitter,text,23-02-2023,Thursday,01:00 AM,Just another day.,#Tech,1423,166,380,17,1,1,neutral
+912,Instagram,carousel,08-09-2023,Friday,04:30 PM,Disappointed but moving on.,"#Photography, #Foodie",2543,74,547,27,2,16,negative
+913,Facebook,text,19-01-2023,Thursday,04:30 PM,Disappointed but moving on.,"#Social, #Community, #Events",2835,243,708,27,3,16,negative
+914,Facebook,text,07-06-2023,Wednesday,11:45 AM,"New post, check it out!","#Marketing, #Family",2957,225,29,23,2,11,neutral
+915,Instagram,carousel,14-03-2023,Tuesday,02:30 AM,What do you think?,"#InstaDaily, #Fitness, #Photography",4752,483,729,18,3,2,neutral
+916,Instagram,carousel,11-02-2023,Saturday,04:00 PM,Loving this new vibe! 😍,"#Foodie, #Fashion, #Tech",2631,93,832,23,3,16,positive
+917,Facebook,text,10-08-2023,Thursday,01:45 PM,Could be better.,#Events,679,386,704,16,1,13,negative
+918,Facebook,image,15-02-2023,Wednesday,11:30 AM,Disappointed but moving on.,"#Events, #Community",3495,65,438,27,2,11,negative
+919,Instagram,image,04-08-2023,Friday,09:30 PM,Could be better.,"#Photography, #Travel, #Beauty",2954,176,257,16,3,21,negative
+920,Twitter,poll,08-10-2023,Sunday,04:00 PM,Could be better.,"#Memes, #Politics, #Entertainment",1921,248,406,16,3,16,negative
+921,Facebook,video,10-03-2023,Friday,12:00 AM,Just another day.,"#Community, #Friends",1540,353,446,17,2,0,neutral
+922,Facebook,image,19-09-2023,Tuesday,02:45 PM,Not my best day. 😞,"#Social, #Community",2059,75,360,18,2,14,negative
+923,Instagram,video,02-09-2023,Saturday,09:45 AM,Disappointed but moving on.,"#Photography, #Fitness",2215,130,748,27,2,9,negative
+924,Instagram,text,29-08-2023,Tuesday,03:45 PM,Just another day.,"#Beauty, #Fitness, #InstaDaily",3042,62,722,17,3,15,neutral
+925,Instagram,carousel,05-01-2023,Thursday,04:30 PM,Disappointed but moving on.,"#Fashion, #Fitness, #Beauty",3554,353,614,27,3,16,negative
+926,Instagram,poll,15-04-2023,Saturday,01:15 AM,Could be better.,"#InstaDaily, #Photography, #Fashion",4544,484,405,16,3,1,negative
+927,Facebook,video,01-11-2023,Wednesday,10:00 AM,Could be better.,"#Events, #Marketing",4797,500,232,16,2,10,negative
+928,Twitter,text,11-12-2023,Monday,02:45 PM,"New post, check it out!","#Trending, #Sports",1945,143,337,23,2,14,neutral
+929,Instagram,poll,10-11-2023,Friday,02:00 PM,Disappointed but moving on.,#InstaDaily,4380,117,247,27,1,14,negative
+930,Instagram,poll,23-03-2023,Thursday,04:15 AM,Loving this new vibe! 😍,#Beauty,3992,297,851,23,1,4,positive
+931,Instagram,poll,23-07-2023,Sunday,02:45 AM,Not my best day. 😞,#Fitness,5000,362,688,18,1,2,negative
+932,Facebook,carousel,19-11-2023,Sunday,03:30 AM,Not my best day. 😞,"#Social, #Events",913,445,279,18,2,3,negative
+933,Facebook,poll,18-07-2023,Tuesday,03:00 PM,Loving this new vibe! 😍,"#Marketing, #Friends, #Events",2488,161,239,23,3,15,positive
+934,Twitter,video,18-01-2023,Wednesday,12:45 AM,Just another day.,"#Memes, #Tech, #Entertainment",1725,42,99,17,3,0,neutral
+935,Facebook,image,04-01-2023,Wednesday,07:15 AM,Just another day.,"#Family, #Community, #Social",3769,135,722,17,3,7,neutral
+936,Twitter,image,30-01-2023,Monday,06:45 PM,Loving this new vibe! 😍,"#Entertainment, #Politics, #Sports",664,176,431,23,3,18,positive
+937,Facebook,text,25-02-2023,Saturday,09:45 PM,"New post, check it out!","#Social, #Friends",2292,32,195,23,2,21,neutral
+938,Twitter,poll,29-01-2023,Sunday,02:30 AM,Here's a quick update.,"#Sports, #Memes, #Trending",2460,53,480,22,3,2,neutral
+939,Twitter,carousel,07-01-2023,Saturday,07:45 PM,Exciting news! 🚀,#Entertainment,624,73,200,16,1,19,positive
+940,Instagram,text,08-04-2023,Saturday,04:30 AM,Exciting news! 🚀,"#Tech, #Photography",386,258,537,16,2,4,positive
+941,Instagram,poll,15-11-2023,Wednesday,01:00 AM,Loving this new vibe! 😍,"#Fitness, #Travel, #Fashion",1907,63,149,23,3,1,positive
+942,Twitter,poll,19-03-2023,Sunday,06:00 AM,Best day ever! 🎉,"#Trending, #Politics, #Entertainment",513,83,380,16,3,6,positive
+943,Facebook,carousel,27-09-2023,Wednesday,01:30 PM,Amazing experience! 🌟,#Marketing,2417,311,667,21,1,13,positive
+944,Facebook,carousel,05-12-2023,Tuesday,05:00 PM,Exciting news! 🚀,#Friends,4933,216,70,16,1,17,positive
+945,Twitter,carousel,10-04-2023,Monday,06:30 PM,Feeling down today.,"#Tech, #Entertainment",2050,215,336,19,2,18,negative
+946,Twitter,poll,16-05-2023,Tuesday,04:15 AM,What do you think?,"#Sports, #Entertainment",1564,98,325,18,2,4,neutral
+947,Instagram,text,05-04-2023,Wednesday,07:45 PM,What do you think?,#InstaDaily,2755,46,537,18,1,19,neutral
+948,Facebook,video,25-10-2023,Wednesday,08:15 PM,What do you think?,"#Social, #Community, #Family",3412,104,946,18,3,20,neutral
+949,Facebook,carousel,07-11-2023,Tuesday,04:00 PM,Here's a quick update.,"#Family, #Marketing",3563,452,930,22,2,16,neutral
+950,Instagram,text,12-05-2023,Friday,12:45 AM,What do you think?,"#Tech, #Fashion",482,164,336,18,2,0,neutral
+951,Twitter,carousel,20-04-2023,Thursday,09:00 AM,Feeling down today.,"#Politics, #News, #Tech",1745,73,147,19,3,9,negative
+952,Twitter,poll,09-10-2023,Monday,07:15 PM,What do you think?,#Tech,1279,121,7,18,1,19,neutral
+953,Instagram,image,04-01-2023,Wednesday,02:15 AM,Exciting news! 🚀,"#Beauty, #Photography, #InstaDaily",3480,81,154,16,3,2,positive
+954,Instagram,text,12-05-2023,Friday,05:15 AM,Amazing experience! 🌟,#Travel,1920,58,702,21,1,5,positive
+955,Instagram,video,10-12-2023,Sunday,06:00 AM,Just another day.,"#Foodie, #Travel",579,48,54,17,2,6,neutral
+956,Twitter,poll,12-05-2023,Friday,10:15 PM,Not my best day. 😞,"#Tech, #Memes, #Politics",2445,95,272,18,3,22,negative
+957,Facebook,text,26-01-2023,Thursday,06:00 PM,Not my best day. 😞,"#Social, #Marketing",2688,317,723,18,2,18,negative
+958,Instagram,image,14-11-2023,Tuesday,12:00 AM,Best day ever! 🎉,#Beauty,3699,201,922,16,1,0,positive
+959,Twitter,poll,05-08-2023,Saturday,11:15 AM,"New post, check it out!",#Sports,3453,80,15,23,1,11,neutral
+960,Instagram,text,10-12-2023,Sunday,04:30 PM,Loving this new vibe! 😍,"#InstaDaily, #Beauty, #Photography",3885,137,88,23,3,16,positive
+961,Twitter,image,05-09-2023,Tuesday,04:30 PM,Just another day.,"#Politics, #Tech",2427,97,29,17,2,16,neutral
+962,Instagram,video,03-02-2023,Friday,12:15 PM,Not my best day. 😞,"#Fitness, #Travel, #Beauty",5000,366,34,18,3,12,negative
+963,Instagram,video,14-08-2023,Monday,07:30 PM,Just another day.,"#Fashion, #Photography, #Travel",4475,336,551,17,3,19,neutral
+964,Instagram,image,22-11-2023,Wednesday,04:00 PM,Just another day.,"#Fashion, #Tech",1886,214,82,17,2,16,neutral
+965,Twitter,text,01-11-2023,Wednesday,02:30 PM,Amazing experience! 🌟,"#Tech, #News",1519,28,431,21,2,14,positive
+966,Facebook,video,18-01-2023,Wednesday,01:15 PM,Could be better.,"#Community, #Friends",1340,263,379,16,2,13,negative
+967,Twitter,carousel,19-10-2023,Thursday,04:00 AM,Just another day.,#Sports,1741,199,211,17,1,4,neutral
+968,Instagram,text,20-05-2023,Saturday,12:30 AM,Just another day.,"#Tech, #Fashion",1861,286,571,17,2,0,neutral
+969,Facebook,text,24-12-2023,Sunday,06:30 PM,Loving this new vibe! 😍,"#Friends, #Social, #Family",4063,229,349,23,3,18,positive
+970,Facebook,poll,14-03-2023,Tuesday,07:00 PM,Not my best day. 😞,#Social,1807,445,956,18,1,19,negative
+971,Twitter,poll,06-05-2023,Saturday,01:30 PM,Here's a quick update.,"#News, #Trending",170,106,251,22,2,13,neutral
+972,Instagram,carousel,04-06-2023,Sunday,06:15 AM,Feeling down today.,#Fashion,214,233,651,19,1,6,negative
+973,Instagram,text,26-11-2023,Sunday,07:00 PM,Best day ever! 🎉,#Fitness,180,156,427,16,1,19,positive
+974,Facebook,video,14-12-2023,Thursday,01:15 AM,Just another day.,"#Family, #Marketing, #Community",2895,180,875,17,3,1,neutral
+975,Facebook,image,13-06-2023,Tuesday,12:45 AM,Exciting news! 🚀,"#Social, #Community",3874,109,908,16,2,0,positive
+976,Facebook,carousel,03-02-2023,Friday,04:15 PM,Best day ever! 🎉,"#Family, #Friends",3896,67,100,16,2,16,positive
+977,Twitter,poll,16-03-2023,Thursday,06:30 AM,What do you think?,"#Memes, #Politics",866,182,76,18,2,6,neutral
+978,Twitter,carousel,30-10-2023,Monday,10:00 AM,Amazing experience! 🌟,#Trending,1315,185,459,21,1,10,positive
+979,Facebook,text,04-08-2023,Friday,02:45 AM,"New post, check it out!",#Events,169,200,609,23,1,2,neutral
+980,Instagram,video,22-08-2023,Tuesday,01:45 PM,Not my best day. 😞,#Beauty,5000,286,369,18,1,13,negative
+981,Facebook,image,12-05-2023,Friday,02:45 PM,Disappointed but moving on.,"#Family, #Social",260,333,763,27,2,14,negative
+982,Facebook,image,24-07-2023,Monday,01:15 AM,Exciting news! 🚀,#Marketing,2746,314,641,16,1,1,positive
+983,Twitter,text,17-07-2023,Monday,03:00 PM,Just another day.,"#News, #Sports",910,42,372,17,2,15,neutral
+984,Facebook,video,20-06-2023,Tuesday,08:15 AM,Loving this new vibe! 😍,#Social,4823,156,881,23,1,8,positive
+985,Twitter,text,29-11-2023,Wednesday,04:15 PM,Feeling down today.,#Entertainment,1017,102,435,19,1,16,negative
+986,Instagram,poll,05-04-2023,Wednesday,11:15 PM,Could be better.,"#Photography, #Tech, #Travel",1930,306,52,16,3,23,negative
+987,Instagram,poll,13-06-2023,Tuesday,06:00 AM,Here's a quick update.,"#Fashion, #Tech",4769,129,247,22,2,6,neutral
+988,Facebook,poll,07-12-2023,Thursday,10:45 PM,Just another day.,#Family,3789,32,446,17,1,22,neutral
+989,Twitter,text,19-04-2023,Wednesday,01:00 AM,What do you think?,"#Entertainment, #Trending",1036,64,307,18,2,1,neutral
+990,Instagram,text,24-06-2023,Saturday,12:30 AM,"New post, check it out!","#Tech, #Foodie",1754,411,996,23,2,0,neutral
+991,Twitter,carousel,30-10-2023,Monday,05:45 AM,Disappointed but moving on.,"#Memes, #Tech",2857,73,219,27,2,5,negative
+992,Twitter,image,24-08-2023,Thursday,07:00 AM,Feeling down today.,#Tech,103,125,289,19,1,7,negative
+993,Facebook,poll,29-09-2023,Friday,04:45 PM,Not my best day. 😞,"#Friends, #Marketing",2899,464,271,18,2,16,negative
+994,Instagram,text,28-09-2023,Thursday,03:45 AM,Loving this new vibe! 😍,#Foodie,1696,388,925,23,1,3,positive
+995,Facebook,carousel,11-11-2023,Saturday,05:15 PM,Just another day.,"#Friends, #Family",1592,500,223,17,2,17,neutral
+996,Instagram,video,25-04-2023,Tuesday,07:15 AM,Not my best day. 😞,"#Beauty, #Travel, #Tech",5000,338,420,18,3,7,negative
+997,Twitter,image,09-09-2023,Saturday,07:30 AM,Could be better.,"#Tech, #Sports, #Entertainment",880,90,45,16,3,7,negative
+998,Instagram,video,18-08-2023,Friday,11:15 PM,Feeling down today.,#Photography,5000,263,274,19,1,23,negative
+999,Facebook,text,05-10-2023,Thursday,12:15 AM,Best day ever! 🎉,#Friends,1075,46,21,16,1,0,positive
+1000,Twitter,poll,11-09-2023,Monday,09:15 PM,Here's a quick update.,"#Trending, #Sports",485,195,173,22,2,21,neutral
